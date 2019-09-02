@@ -10,6 +10,8 @@ structured and comprehensive overview on the anomaly detection.
 Dataset of a GPS product that allows customers to connect their trucks and vehicles to the cloud is available.Products allow live GPS data to feed to the customer for monitoring and keeping a track on their assets.  A lot of this product is received which was shipped from the manufacturing facilities in Korea.
 While performing an incoming material quality check, it was found that approximately 5 % failure of the units sampled for the GPS connection. The defective gateway serial numbers are shown in the Figure1. It is suspected that more products in the lot are defected, hence, we will try to find the other gateway numbers which are similar to the defected ones.
 
+![Figure 1](images/Figure1.png)
+
 
 ### Dataset and Features
 
