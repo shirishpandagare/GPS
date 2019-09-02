@@ -1,0 +1,67 @@
+2018-04-04 01:27:11	Input SN : GY59-8N6-6MT
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 595.152 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 35.0 (s)
+
+
+
+SNR1 = 30
+
+SNR2 = 45
+
+SNR3 = 45
+
+SNR4 = 46
+
+SNR5 = 26
+
+SNR6 = 37
+
+SNR7 = 36
+
+SNR8 = 36
+
+*********************
+
+GPS Signal Test PASS! Use time = 37.070 sec.
+
+
+Total Time 00:00:55

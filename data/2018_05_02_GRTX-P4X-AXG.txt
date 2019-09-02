@@ -1,0 +1,65 @@
+2018-05-02 17:59:10	Input SN : GRTX-P4X-AXG
+
+
+
+
+=====================
+
+GPS Module Detect....
+
+=====================
+
+Detect OK! Use time = 1.652 sec.
+
+
+
+
+
+=====================
+
+Enable GPS Module....
+
+=====================
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.600 sec.
+
+
+
+
+
+=====================
+
+GPS Signal Test....
+
+=====================
+
+TTFF = 3.0 (s)
+
+
+
+SNR1 = 46
+
+SNR2 = 46
+
+SNR3 = 46
+
+SNR4 = 46
+
+SNR5 = 46
+
+SNR6 = 46
+
+SNR7 = 45
+
+*********************
+
+GPS Signal Test PASS! Use time = 9.110 sec.
+
+
+Total Time 00:00:26

@@ -1,0 +1,67 @@
+2018-04-04 01:54:12	Input SN : GPPK-DMN-C72
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 277.332 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.570 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 35.0 (s)
+
+
+
+SNR1 = 46
+
+SNR2 = 45
+
+SNR3 = 46
+
+SNR4 = 46
+
+SNR5 = 46
+
+SNR6 = 46
+
+SNR7 = 46
+
+*********************
+
+GPS Signal Test PASS! Use time = 95.970 sec.
+
+
+Total Time 00:01:56

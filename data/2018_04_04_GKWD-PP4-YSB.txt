@@ -1,0 +1,67 @@
+2018-04-04 03:36:20	Input SN : GKWD-PP4-YSB
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 3497.388 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 27.0 (s)
+
+
+
+SNR1 = 46
+
+SNR2 = 46
+
+SNR3 = 46
+
+SNR4 = 46
+
+SNR5 = 46
+
+SNR6 = 46
+
+SNR7 = 46
+
+SNR8 = 29
+
+*********************
+
+GPS Signal Test PASS! Use time = 30.100 sec.
+
+
+Total Time 00:00:48

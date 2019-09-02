@@ -1,0 +1,67 @@
+2018-04-21 11:17:08	Input SN : GF9W-XR7-E2P
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 1421.971 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 35.0 (s)
+
+
+
+SNR1 = 41
+
+SNR2 = 41
+
+SNR3 = 40
+
+SNR4 = 40
+
+SNR5 = 38
+
+SNR6 = 38
+
+SNR7 = 39
+
+SNR8 = 26
+
+*********************
+
+GPS Signal Test PASS! Use time = 35.760 sec.
+
+
+Total Time 00:01:11

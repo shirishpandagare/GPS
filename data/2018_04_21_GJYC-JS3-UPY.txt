@@ -1,0 +1,69 @@
+2018-04-21 04:20:45	Input SN : GJYC-JS3-UPY
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 11409.053 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.580 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 23.0 (s)
+
+
+
+SNR1 = 45
+
+SNR2 = 45
+
+SNR3 = 45
+
+SNR4 = 45
+
+SNR5 = 44
+
+SNR6 = 45
+
+SNR7 = 45
+
+SNR8 = 45
+
+*********************
+
+GPS Signal Test PASS! Use time = 25.000 sec.
+
+
+Total Time 00:01:06

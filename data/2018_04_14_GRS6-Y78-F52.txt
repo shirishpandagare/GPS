@@ -1,0 +1,67 @@
+2018-04-14 15:47:20	Input SN : GRS6-Y78-F52
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 1013.556 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 28.0 (s)
+
+
+
+SNR1 = 47
+
+SNR2 = 48
+
+SNR3 = 48
+
+SNR4 = 48
+
+SNR5 = 47
+
+SNR6 = 47
+
+SNR7 = 47
+
+SNR8 = 47
+
+*********************
+
+GPS Signal Test PASS! Use time = 31.070 sec.
+
+
+Total Time 00:01:05

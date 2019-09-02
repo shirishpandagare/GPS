@@ -1,0 +1,69 @@
+2018-04-15 13:16:48	Input SN : G4YX-SSX-8K4
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 1313.156 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.580 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 30.0 (s)
+
+
+
+SNR1 = 48
+
+SNR2 = 47
+
+SNR3 = 48
+
+SNR4 = 47
+
+SNR5 = 45
+
+SNR6 = 45
+
+SNR7 = 45
+
+SNR8 = 46
+
+*********************
+
+GPS Signal Test PASS! Use time = 33.160 sec.
+
+
+Total Time 00:01:14

@@ -1,0 +1,69 @@
+2018-04-04 03:46:19	Input SN : GWMB-UBH-83M
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 4826.510 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.570 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 34.0 (s)
+
+
+
+SNR1 = 43
+
+SNR2 = 43
+
+SNR3 = 43
+
+SNR4 = 42
+
+SNR5 = 45
+
+SNR6 = 44
+
+SNR7 = 45
+
+SNR8 = 44
+
+*********************
+
+GPS Signal Test PASS! Use time = 35.630 sec.
+
+
+Total Time 00:00:57

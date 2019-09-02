@@ -1,0 +1,69 @@
+2018-03-28 16:23:10	Input SN : GNNV-YE8-MTD
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 6853.254 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.580 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 36.0 (s)
+
+
+
+SNR1 = 40
+
+SNR2 = 40
+
+SNR3 = 29
+
+SNR4 = 40
+
+SNR5 = 40
+
+SNR6 = 40
+
+SNR7 = 29
+
+SNR8 = 40
+
+*********************
+
+GPS Signal Test PASS! Use time = 38.460 sec.
+
+
+Total Time 00:01:23

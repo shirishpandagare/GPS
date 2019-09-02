@@ -1,0 +1,59 @@
+2018-04-03 23:54:17	Input SN : GHVT-NK3-JFZ
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 353.348 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.600 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 119.0 (s)
+
+
+
+SNR5 = 41
+
+SNR6 = 41
+
+SNR7 = 41
+
+SNR8 = 41
+
+*********************
+
+GPS Signal Test PASS! Use time = 120.050 sec.
+
+
+Total Time 00:02:17

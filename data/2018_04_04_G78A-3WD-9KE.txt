@@ -1,0 +1,69 @@
+2018-04-04 03:50:36	Input SN : G78A-3WD-9KE
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 4344.468 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.570 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 34.0 (s)
+
+
+
+SNR1 = 47
+
+SNR2 = 47
+
+SNR3 = 47
+
+SNR4 = 47
+
+SNR5 = 45
+
+SNR6 = 45
+
+SNR7 = 45
+
+SNR8 = 45
+
+*********************
+
+GPS Signal Test PASS! Use time = 36.060 sec.
+
+
+Total Time 00:00:57

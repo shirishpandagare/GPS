@@ -1,0 +1,67 @@
+2018-04-15 04:44:07	Input SN : G67Y-TJC-TX4
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 20659.049 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 37.0 (s)
+
+
+
+SNR1 = 43
+
+SNR2 = 43
+
+SNR3 = 43
+
+SNR4 = 43
+
+SNR5 = 41
+
+SNR6 = 41
+
+SNR7 = 42
+
+SNR8 = 41
+
+*********************
+
+GPS Signal Test PASS! Use time = 39.720 sec.
+
+
+Total Time 00:01:18

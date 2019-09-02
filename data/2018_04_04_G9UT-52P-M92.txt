@@ -1,0 +1,69 @@
+2018-04-04 12:48:14	Input SN : G9UT-52P-M92
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 199.987 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.580 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 56.0 (s)
+
+
+
+SNR1 = 34
+
+SNR2 = 34
+
+SNR3 = 34
+
+SNR4 = 34
+
+SNR5 = 30
+
+SNR6 = 31
+
+SNR7 = 27
+
+SNR8 = 31
+
+*********************
+
+GPS Signal Test PASS! Use time = 98.970 sec.
+
+
+Total Time 00:02:21

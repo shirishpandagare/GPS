@@ -1,0 +1,67 @@
+2018-03-08 20:34:18	Input SN : GF8B-U68-5U3
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 9498.257 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 11.0 (s)
+
+
+
+SNR1 = 36
+
+SNR2 = 28
+
+SNR3 = 36
+
+SNR4 = 27
+
+SNR5 = 38
+
+SNR6 = 26
+
+SNR7 = 38
+
+SNR8 = 29
+
+*********************
+
+GPS Signal Test PASS! Use time = 11.630 sec.
+
+
+Total Time 00:00:48

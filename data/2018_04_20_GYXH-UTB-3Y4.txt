@@ -1,0 +1,67 @@
+2018-04-20 16:49:20	Input SN : GYXH-UTB-3Y4
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 270.703 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 26.0 (s)
+
+
+
+SNR1 = 44
+
+SNR2 = 44
+
+SNR3 = 44
+
+SNR4 = 44
+
+SNR5 = 41
+
+SNR6 = 33
+
+SNR7 = 41
+
+SNR8 = 29
+
+*********************
+
+GPS Signal Test PASS! Use time = 30.770 sec.
+
+
+Total Time 00:01:10

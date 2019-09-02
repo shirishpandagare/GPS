@@ -1,0 +1,61 @@
+2018-03-28 14:19:31	Input SN : GWC7-GBS-686
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 6.220 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.560 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 39.0 (s)
+
+
+
+SNR1 = 30
+
+SNR2 = 33
+
+SNR3 = 33
+
+SNR4 = 30
+
+*********************
+
+GPS Signal Test PASS! Use time = 96.580 sec.
+
+
+Total Time 00:01:59

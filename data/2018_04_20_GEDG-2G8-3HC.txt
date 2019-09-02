@@ -1,0 +1,67 @@
+2018-04-20 16:19:34	Input SN : GEDG-2G8-3HC
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 879.747 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 39.0 (s)
+
+
+
+SNR1 = 40
+
+SNR2 = 40
+
+SNR3 = 40
+
+SNR4 = 40
+
+SNR5 = 41
+
+SNR6 = 33
+
+SNR7 = 35
+
+SNR8 = 41
+
+*********************
+
+GPS Signal Test PASS! Use time = 41.450 sec.
+
+
+Total Time 00:01:21

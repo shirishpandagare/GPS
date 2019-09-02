@@ -1,0 +1,67 @@
+2018-04-04 03:40:57	Input SN : G9M2-XUB-82C
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 4511.676 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.600 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 28.0 (s)
+
+
+
+SNR1 = 45
+
+SNR2 = 45
+
+SNR3 = 44
+
+SNR4 = 44
+
+SNR5 = 44
+
+SNR6 = 44
+
+SNR7 = 45
+
+SNR8 = 44
+
+*********************
+
+GPS Signal Test PASS! Use time = 31.440 sec.
+
+
+Total Time 00:00:49

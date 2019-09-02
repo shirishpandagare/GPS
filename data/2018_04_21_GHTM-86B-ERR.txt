@@ -1,0 +1,67 @@
+2018-04-21 13:13:13	Input SN : GHTM-86B-ERR
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 8385.092 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 30.0 (s)
+
+
+
+SNR1 = 41
+
+SNR2 = 41
+
+SNR3 = 41
+
+SNR4 = 41
+
+SNR5 = 39
+
+SNR6 = 39
+
+SNR7 = 39
+
+SNR8 = 29
+
+*********************
+
+GPS Signal Test PASS! Use time = 34.170 sec.
+
+
+Total Time 00:01:13

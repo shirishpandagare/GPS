@@ -1,0 +1,59 @@
+2018-03-28 14:28:08	Input SN : GWUY-3PP-7E7
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 14.508 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 0.0 (s)
+
+
+
+SNR1 = 41
+
+SNR2 = 41
+
+SNR3 = 41
+
+SNR4 = 41
+
+*********************
+
+GPS Signal Test PASS! Use time = 0.150 sec.
+
+
+Total Time 00:00:20

@@ -1,0 +1,69 @@
+2018-04-20 15:45:40	Input SN : GUTB-G4Y-VTE
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 475.235 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.580 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 37.0 (s)
+
+
+
+SNR1 = 42
+
+SNR2 = 42
+
+SNR3 = 42
+
+SNR4 = 42
+
+SNR5 = 42
+
+SNR6 = 41
+
+SNR7 = 41
+
+SNR8 = 41
+
+*********************
+
+GPS Signal Test PASS! Use time = 45.540 sec.
+
+
+Total Time 00:01:26

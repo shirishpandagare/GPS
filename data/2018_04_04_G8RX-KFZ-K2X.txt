@@ -1,0 +1,59 @@
+2018-04-04 07:41:53	Input SN : G8RX-KFZ-K2X
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 286.674 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.600 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 0.0 (s)
+
+
+
+SNR1 = 42
+
+SNR2 = 42
+
+SNR3 = 42
+
+SNR4 = 42
+
+*********************
+
+GPS Signal Test PASS! Use time = 0.110 sec.
+
+
+Total Time 00:00:18

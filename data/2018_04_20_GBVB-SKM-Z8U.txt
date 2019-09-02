@@ -1,0 +1,61 @@
+2018-04-20 23:04:15	Input SN : GBVB-SKM-Z8U
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 286.407 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.570 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 30.0 (s)
+
+
+
+SNR1 = 45
+
+SNR2 = 45
+
+SNR3 = 45
+
+SNR4 = 45
+
+*********************
+
+GPS Signal Test PASS! Use time = 30.280 sec.
+
+
+Total Time 00:01:11

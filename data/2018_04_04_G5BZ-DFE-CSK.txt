@@ -1,0 +1,67 @@
+2018-04-04 09:09:09	Input SN : G5BZ-DFE-CSK
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 9894.717 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 26.0 (s)
+
+
+
+SNR1 = 48
+
+SNR2 = 48
+
+SNR3 = 48
+
+SNR4 = 48
+
+SNR5 = 48
+
+SNR6 = 48
+
+SNR7 = 48
+
+SNR8 = 48
+
+*********************
+
+GPS Signal Test PASS! Use time = 29.130 sec.
+
+
+Total Time 00:00:48

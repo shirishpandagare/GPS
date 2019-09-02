@@ -1,0 +1,67 @@
+2018-03-08 19:21:56	Input SN : GNWE-TN4-X7T
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 5117.392 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 49.0 (s)
+
+
+
+SNR1 = 31
+
+SNR2 = 32
+
+SNR3 = 26
+
+SNR4 = 33
+
+SNR5 = 36
+
+SNR6 = 30
+
+SNR7 = 35
+
+SNR8 = 35
+
+*********************
+
+GPS Signal Test PASS! Use time = 50.850 sec.
+
+
+Total Time 00:01:26

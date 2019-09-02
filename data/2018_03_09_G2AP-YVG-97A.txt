@@ -1,0 +1,61 @@
+2018-03-09 10:42:04	Input SN : G2AP-YVG-97A
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 840.466 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.570 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 30.0 (s)
+
+
+
+SNR5 = 39
+
+SNR6 = 38
+
+SNR7 = 38
+
+SNR8 = 39
+
+*********************
+
+GPS Signal Test PASS! Use time = 86.400 sec.
+
+
+Total Time 00:02:05

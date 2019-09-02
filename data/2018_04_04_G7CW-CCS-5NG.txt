@@ -1,0 +1,65 @@
+2018-04-04 02:27:56	Input SN : G7CW-CCS-5NG
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 128.248 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.600 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 31.0 (s)
+
+
+
+SNR1 = 45
+
+SNR2 = 45
+
+SNR3 = 45
+
+SNR4 = 45
+
+SNR5 = 44
+
+SNR6 = 45
+
+SNR7 = 45
+
+*********************
+
+GPS Signal Test PASS! Use time = 33.790 sec.
+
+
+Total Time 00:00:52

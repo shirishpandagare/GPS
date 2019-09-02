@@ -1,0 +1,67 @@
+2018-04-20 14:43:20	Input SN : G29S-CK4-RJH
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 759.254 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 27.0 (s)
+
+
+
+SNR1 = 41
+
+SNR2 = 41
+
+SNR3 = 41
+
+SNR4 = 41
+
+SNR5 = 41
+
+SNR6 = 41
+
+SNR7 = 41
+
+SNR8 = 41
+
+*********************
+
+GPS Signal Test PASS! Use time = 28.480 sec.
+
+
+Total Time 00:01:06

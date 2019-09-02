@@ -1,0 +1,67 @@
+2018-04-03 22:47:26	Input SN : GARE-W8A-X2T
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 3862.437 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.600 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 35.0 (s)
+
+
+
+SNR1 = 41
+
+SNR2 = 41
+
+SNR3 = 41
+
+SNR4 = 41
+
+SNR5 = 41
+
+SNR6 = 41
+
+SNR7 = 41
+
+SNR8 = 40
+
+*********************
+
+GPS Signal Test PASS! Use time = 37.400 sec.
+
+
+Total Time 00:00:56

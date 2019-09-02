@@ -1,0 +1,67 @@
+2018-04-04 03:32:05	Input SN : GFB9-3J7-7JG
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 207.938 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.590 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 37.0 (s)
+
+
+
+SNR1 = 44
+
+SNR2 = 44
+
+SNR3 = 44
+
+SNR4 = 44
+
+SNR5 = 44
+
+SNR6 = 44
+
+SNR7 = 44
+
+*********************
+
+GPS Signal Test PASS! Use time = 39.390 sec.
+
+
+Total Time 00:01:03

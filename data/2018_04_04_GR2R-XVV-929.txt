@@ -1,0 +1,67 @@
+2018-04-04 02:30:36	Input SN : GR2R-XVV-929
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 1603.356 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 32.0 (s)
+
+
+
+SNR1 = 29
+
+SNR2 = 42
+
+SNR3 = 42
+
+SNR4 = 42
+
+SNR5 = 46
+
+SNR6 = 45
+
+SNR7 = 29
+
+SNR8 = 45
+
+*********************
+
+GPS Signal Test PASS! Use time = 62.280 sec.
+
+
+Total Time 00:01:21

@@ -1,0 +1,65 @@
+2018-04-04 04:27:32	Input SN : GH7G-5NW-E6Z
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 1159.749 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 37.0 (s)
+
+
+
+SNR1 = 44
+
+SNR2 = 44
+
+SNR3 = 44
+
+SNR4 = 44
+
+SNR5 = 46
+
+SNR6 = 46
+
+SNR7 = 46
+
+*********************
+
+GPS Signal Test PASS! Use time = 38.380 sec.
+
+
+Total Time 00:00:59

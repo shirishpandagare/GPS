@@ -1,0 +1,61 @@
+2018-04-04 07:26:35	Input SN : G39D-8UN-ZC4
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 7424.852 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.570 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 26.0 (s)
+
+
+
+SNR1 = 41
+
+SNR2 = 41
+
+SNR3 = 41
+
+SNR4 = 42
+
+*********************
+
+GPS Signal Test PASS! Use time = 29.730 sec.
+
+
+Total Time 00:00:54

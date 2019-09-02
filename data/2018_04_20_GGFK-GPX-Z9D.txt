@@ -1,0 +1,69 @@
+2018-04-20 21:57:57	Input SN : GGFK-GPX-Z9D
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 2832.665 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.570 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 35.0 (s)
+
+
+
+SNR1 = 41
+
+SNR2 = 41
+
+SNR3 = 41
+
+SNR4 = 41
+
+SNR5 = 41
+
+SNR6 = 41
+
+SNR7 = 41
+
+SNR8 = 40
+
+*********************
+
+GPS Signal Test PASS! Use time = 96.750 sec.
+
+
+Total Time 00:02:15

@@ -1,0 +1,59 @@
+2018-04-20 15:53:09	Input SN : G6NY-Z8R-HH5
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 12.711 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.600 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 36.0 (s)
+
+
+
+SNR1 = 43
+
+SNR2 = 43
+
+SNR3 = 43
+
+SNR4 = 34
+
+*********************
+
+GPS Signal Test PASS! Use time = 36.550 sec.
+
+
+Total Time 00:01:15

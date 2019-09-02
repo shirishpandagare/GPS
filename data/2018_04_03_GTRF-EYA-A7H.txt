@@ -1,0 +1,69 @@
+2018-04-03 23:23:49	Input SN : GTRF-EYA-A7H
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 6043.400 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.560 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 35.0 (s)
+
+
+
+SNR1 = 41
+
+SNR2 = 41
+
+SNR3 = 41
+
+SNR4 = 41
+
+SNR5 = 41
+
+SNR6 = 41
+
+SNR7 = 41
+
+SNR8 = 42
+
+*********************
+
+GPS Signal Test PASS! Use time = 36.800 sec.
+
+
+Total Time 00:00:58

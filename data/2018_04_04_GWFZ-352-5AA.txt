@@ -1,0 +1,69 @@
+2018-04-04 11:49:27	Input SN : GWFZ-352-5AA
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 3808.267 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.540 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 40.0 (s)
+
+
+
+SNR1 = 39
+
+SNR2 = 39
+
+SNR3 = 40
+
+SNR4 = 40
+
+SNR5 = 43
+
+SNR6 = 43
+
+SNR7 = 43
+
+SNR8 = 43
+
+*********************
+
+GPS Signal Test PASS! Use time = 98.760 sec.
+
+
+Total Time 00:02:15

@@ -1,0 +1,67 @@
+2018-04-20 16:46:47	Input SN : GWV7-8FH-ADM
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 753.399 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.580 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 27.0 (s)
+
+
+
+SNR1 = 46
+
+SNR2 = 46
+
+SNR3 = 46
+
+SNR4 = 46
+
+SNR5 = 46
+
+SNR6 = 47
+
+SNR7 = 47
+
+*********************
+
+GPS Signal Test PASS! Use time = 29.100 sec.
+
+
+Total Time 00:01:13

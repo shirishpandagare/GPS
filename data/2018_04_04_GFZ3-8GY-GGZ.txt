@@ -1,0 +1,67 @@
+2018-04-04 08:14:30	Input SN : GFZ3-8GY-GGZ
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 10293.072 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 35.0 (s)
+
+
+
+SNR1 = 43
+
+SNR2 = 43
+
+SNR3 = 44
+
+SNR4 = 43
+
+SNR5 = 40
+
+SNR6 = 41
+
+SNR7 = 41
+
+SNR8 = 40
+
+*********************
+
+GPS Signal Test PASS! Use time = 38.520 sec.
+
+
+Total Time 00:00:59

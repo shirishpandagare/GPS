@@ -1,0 +1,67 @@
+2018-04-04 07:33:27	Input SN : GXU2-BM9-JM9
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 4061.619 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 119.0 (s)
+
+
+
+SNR1 = 45
+
+SNR2 = 45
+
+SNR3 = 45
+
+SNR4 = 45
+
+SNR5 = 27
+
+SNR6 = 28
+
+SNR7 = 49
+
+SNR8 = 49
+
+*********************
+
+GPS Signal Test PASS! Use time = 120.080 sec.
+
+
+Total Time 00:02:18

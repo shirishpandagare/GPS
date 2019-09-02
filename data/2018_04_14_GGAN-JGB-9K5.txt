@@ -1,0 +1,69 @@
+2018-04-14 22:36:48	Input SN : GGAN-JGB-9K5
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 5109.020 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.580 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 22.0 (s)
+
+
+
+SNR1 = 45
+
+SNR2 = 45
+
+SNR3 = 45
+
+SNR4 = 45
+
+SNR5 = 42
+
+SNR6 = 31
+
+SNR7 = 30
+
+SNR8 = 42
+
+*********************
+
+GPS Signal Test PASS! Use time = 25.010 sec.
+
+
+Total Time 00:01:04

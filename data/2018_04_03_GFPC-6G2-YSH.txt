@@ -1,0 +1,69 @@
+2018-04-03 23:32:57	Input SN : GFPC-6G2-YSH
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 6593.601 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.560 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 31.0 (s)
+
+
+
+SNR1 = 40
+
+SNR2 = 40
+
+SNR3 = 40
+
+SNR4 = 41
+
+SNR5 = 40
+
+SNR6 = 40
+
+SNR7 = 40
+
+SNR8 = 40
+
+*********************
+
+GPS Signal Test PASS! Use time = 34.610 sec.
+
+
+Total Time 00:00:56

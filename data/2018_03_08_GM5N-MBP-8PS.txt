@@ -1,0 +1,67 @@
+2018-03-08 19:29:36	Input SN : GM5N-MBP-8PS
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 5388.652 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 43.0 (s)
+
+
+
+SNR1 = 34
+
+SNR2 = 34
+
+SNR3 = 34
+
+SNR4 = 34
+
+SNR5 = 38
+
+SNR6 = 37
+
+SNR7 = 30
+
+SNR8 = 38
+
+*********************
+
+GPS Signal Test PASS! Use time = 99.950 sec.
+
+
+Total Time 00:02:03

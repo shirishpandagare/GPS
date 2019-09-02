@@ -1,0 +1,67 @@
+2018-04-04 01:41:41	Input SN : GYTC-HU6-WJA
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 1466.032 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 34.0 (s)
+
+
+
+SNR1 = 44
+
+SNR2 = 43
+
+SNR3 = 44
+
+SNR4 = 44
+
+SNR5 = 46
+
+SNR6 = 46
+
+SNR7 = 45
+
+SNR8 = 44
+
+*********************
+
+GPS Signal Test PASS! Use time = 36.190 sec.
+
+
+Total Time 00:00:54

@@ -1,0 +1,67 @@
+2018-04-04 04:24:57	Input SN : GDRS-AF5-KWD
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 7150.502 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.600 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 29.0 (s)
+
+
+
+SNR1 = 45
+
+SNR2 = 44
+
+SNR3 = 44
+
+SNR4 = 45
+
+SNR5 = 45
+
+SNR6 = 45
+
+SNR7 = 45
+
+SNR8 = 43
+
+*********************
+
+GPS Signal Test PASS! Use time = 32.650 sec.
+
+
+Total Time 00:00:51

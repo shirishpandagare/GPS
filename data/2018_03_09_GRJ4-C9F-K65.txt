@@ -1,0 +1,67 @@
+2018-03-09 11:15:25	Input SN : GRJ4-C9F-K65
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 3375.993 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 120.0 (s)
+
+
+
+SNR1 = 37
+
+SNR2 = 37
+
+SNR3 = 26
+
+SNR4 = 37
+
+SNR5 = 36
+
+SNR6 = 37
+
+SNR7 = 36
+
+SNR8 = 28
+
+*********************
+
+GPS Signal Test PASS! Use time = 121.190 sec.
+
+
+Total Time 00:02:39

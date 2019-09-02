@@ -1,0 +1,69 @@
+2018-03-08 19:19:18	Input SN : GNTM-TNU-YNV
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 4721.399 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.570 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 95.0 (s)
+
+
+
+SNR1 = 34
+
+SNR2 = 34
+
+SNR3 = 34
+
+SNR4 = 34
+
+SNR5 = 38
+
+SNR6 = 37
+
+SNR7 = 30
+
+SNR8 = 38
+
+*********************
+
+GPS Signal Test PASS! Use time = 120.158 sec.
+
+
+Total Time 00:02:52

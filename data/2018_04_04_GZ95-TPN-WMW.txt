@@ -1,0 +1,65 @@
+2018-04-04 02:25:42	Input SN : GZ95-TPN-WMW
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 28.240 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.600 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 0.0 (s)
+
+
+
+SNR1 = 46
+
+SNR2 = 46
+
+SNR3 = 47
+
+SNR4 = 46
+
+SNR5 = 46
+
+SNR6 = 46
+
+SNR7 = 47
+
+*********************
+
+GPS Signal Test PASS! Use time = 0.120 sec.
+
+
+Total Time 00:00:18

@@ -1,0 +1,67 @@
+2018-04-21 02:28:59	Input SN : GZEV-886-9A4
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 805.378 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.600 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 41.0 (s)
+
+
+
+SNR1 = 39
+
+SNR2 = 39
+
+SNR3 = 39
+
+SNR4 = 39
+
+SNR5 = 39
+
+SNR6 = 39
+
+SNR7 = 39
+
+SNR8 = 39
+
+*********************
+
+GPS Signal Test PASS! Use time = 68.180 sec.
+
+
+Total Time 00:01:46

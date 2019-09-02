@@ -1,0 +1,69 @@
+2018-04-21 13:03:00	Input SN : GRFA-852-YJD
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 7765.516 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.580 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 37.0 (s)
+
+
+
+SNR1 = 27
+
+SNR2 = 39
+
+SNR3 = 39
+
+SNR4 = 39
+
+SNR5 = 39
+
+SNR6 = 39
+
+SNR7 = 39
+
+SNR8 = 40
+
+*********************
+
+GPS Signal Test PASS! Use time = 38.721 sec.
+
+
+Total Time 00:01:21

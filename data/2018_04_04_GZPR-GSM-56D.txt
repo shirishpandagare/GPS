@@ -1,0 +1,69 @@
+2018-04-04 04:52:09	Input SN : GZPR-GSM-56D
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 2739.587 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.570 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 37.0 (s)
+
+
+
+SNR1 = 47
+
+SNR2 = 47
+
+SNR3 = 47
+
+SNR4 = 47
+
+SNR5 = 47
+
+SNR6 = 47
+
+SNR7 = 47
+
+SNR8 = 47
+
+*********************
+
+GPS Signal Test PASS! Use time = 40.570 sec.
+
+
+Total Time 00:01:01

@@ -1,0 +1,65 @@
+2018-04-20 15:42:16	Input SN : G9FC-VU6-KT4
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 290.462 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 24.0 (s)
+
+
+
+SNR1 = 42
+
+SNR2 = 42
+
+SNR3 = 42
+
+SNR4 = 42
+
+SNR5 = 42
+
+SNR6 = 42
+
+SNR7 = 42
+
+*********************
+
+GPS Signal Test PASS! Use time = 27.840 sec.
+
+
+Total Time 00:01:06

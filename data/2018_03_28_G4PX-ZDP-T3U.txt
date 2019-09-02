@@ -1,0 +1,69 @@
+2018-03-28 14:40:07	Input SN : G4PX-ZDP-T3U
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 673.858 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.581 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 35.0 (s)
+
+
+
+SNR1 = 39
+
+SNR2 = 38
+
+SNR3 = 38
+
+SNR4 = 39
+
+SNR5 = 40
+
+SNR6 = 28
+
+SNR7 = 40
+
+SNR8 = 40
+
+*********************
+
+GPS Signal Test PASS! Use time = 37.710 sec.
+
+
+Total Time 00:01:19

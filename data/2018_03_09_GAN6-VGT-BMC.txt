@@ -1,0 +1,67 @@
+2018-03-09 09:25:43	Input SN : GAN6-VGT-BMC
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 1526.278 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 35.0 (s)
+
+
+
+SNR1 = 40
+
+SNR2 = 39
+
+SNR3 = 29
+
+SNR4 = 39
+
+SNR5 = 41
+
+SNR6 = 42
+
+SNR7 = 42
+
+SNR8 = 41
+
+*********************
+
+GPS Signal Test PASS! Use time = 89.860 sec.
+
+
+Total Time 00:02:05

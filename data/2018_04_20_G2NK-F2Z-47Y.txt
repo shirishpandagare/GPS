@@ -1,0 +1,67 @@
+2018-04-20 21:56:16	Input SN : G2NK-F2Z-47Y
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 2685.209 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.570 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 24.0 (s)
+
+
+
+SNR1 = 45
+
+SNR2 = 45
+
+SNR3 = 45
+
+SNR4 = 45
+
+SNR5 = 44
+
+SNR6 = 44
+
+SNR7 = 44
+
+*********************
+
+GPS Signal Test PASS! Use time = 27.080 sec.
+
+
+Total Time 00:01:02

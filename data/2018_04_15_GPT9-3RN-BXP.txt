@@ -1,0 +1,69 @@
+2018-04-15 02:56:06	Input SN : GPT9-3RN-BXP
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 14177.915 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.580 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 34.0 (s)
+
+
+
+SNR1 = 43
+
+SNR2 = 42
+
+SNR3 = 43
+
+SNR4 = 43
+
+SNR5 = 41
+
+SNR6 = 41
+
+SNR7 = 42
+
+SNR8 = 41
+
+*********************
+
+GPS Signal Test PASS! Use time = 36.761 sec.
+
+
+Total Time 00:01:18

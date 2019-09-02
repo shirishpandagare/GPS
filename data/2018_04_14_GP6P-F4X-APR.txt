@@ -1,0 +1,67 @@
+2018-04-14 23:39:37	Input SN : GP6P-F4X-APR
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 2371.921 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 35.0 (s)
+
+
+
+SNR1 = 43
+
+SNR2 = 43
+
+SNR3 = 43
+
+SNR4 = 43
+
+SNR5 = 30
+
+SNR6 = 43
+
+SNR7 = 43
+
+SNR8 = 29
+
+*********************
+
+GPS Signal Test PASS! Use time = 60.920 sec.
+
+
+Total Time 00:01:34

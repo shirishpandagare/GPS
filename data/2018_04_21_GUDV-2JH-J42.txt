@@ -1,0 +1,67 @@
+2018-04-21 08:46:12	Input SN : GUDV-2JH-J42
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 620.413 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 35.0 (s)
+
+
+
+SNR1 = 41
+
+SNR2 = 41
+
+SNR3 = 40
+
+SNR4 = 40
+
+SNR5 = 42
+
+SNR6 = 42
+
+SNR7 = 42
+
+SNR8 = 42
+
+*********************
+
+GPS Signal Test PASS! Use time = 95.771 sec.
+
+
+Total Time 00:02:14

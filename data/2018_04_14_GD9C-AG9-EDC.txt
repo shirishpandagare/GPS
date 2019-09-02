@@ -1,0 +1,67 @@
+2018-04-14 16:59:49	Input SN : GD9C-AG9-EDC
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 1225.310 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 31.0 (s)
+
+
+
+SNR1 = 45
+
+SNR2 = 44
+
+SNR3 = 44
+
+SNR4 = 44
+
+SNR5 = 47
+
+SNR6 = 47
+
+SNR7 = 47
+
+SNR8 = 46
+
+*********************
+
+GPS Signal Test PASS! Use time = 34.110 sec.
+
+
+Total Time 00:01:11

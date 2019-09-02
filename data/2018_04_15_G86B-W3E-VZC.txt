@@ -1,0 +1,69 @@
+2018-04-15 02:48:17	Input SN : G86B-W3E-VZC
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 13718.926 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.580 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 27.0 (s)
+
+
+
+SNR1 = 43
+
+SNR2 = 44
+
+SNR3 = 43
+
+SNR4 = 43
+
+SNR5 = 43
+
+SNR6 = 26
+
+SNR7 = 43
+
+SNR8 = 43
+
+*********************
+
+GPS Signal Test PASS! Use time = 29.650 sec.
+
+
+Total Time 00:01:07

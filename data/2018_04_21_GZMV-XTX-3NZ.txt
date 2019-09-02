@@ -1,0 +1,67 @@
+2018-04-21 01:05:43	Input SN : GZMV-XTX-3NZ
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 3888.133 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.600 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 40.0 (s)
+
+
+
+SNR1 = 40
+
+SNR2 = 40
+
+SNR3 = 40
+
+SNR4 = 40
+
+SNR5 = 41
+
+SNR6 = 40
+
+SNR7 = 40
+
+SNR8 = 41
+
+*********************
+
+GPS Signal Test PASS! Use time = 41.460 sec.
+
+
+Total Time 00:01:17

@@ -1,0 +1,67 @@
+2018-04-21 13:15:40	Input SN : GAZ9-AV2-22W
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 8480.830 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 25.0 (s)
+
+
+
+SNR1 = 41
+
+SNR2 = 41
+
+SNR3 = 41
+
+SNR4 = 41
+
+SNR5 = 41
+
+SNR6 = 28
+
+SNR7 = 41
+
+SNR8 = 29
+
+*********************
+
+GPS Signal Test PASS! Use time = 86.401 sec.
+
+
+Total Time 00:02:05

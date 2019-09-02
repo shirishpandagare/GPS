@@ -1,0 +1,61 @@
+2018-04-04 12:43:13	Input SN : GKUU-3VZ-57Z
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 16.212 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.550 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 0.0 (s)
+
+
+
+SNR1 = 34
+
+SNR2 = 34
+
+SNR3 = 34
+
+SNR4 = 34
+
+*********************
+
+GPS Signal Test PASS! Use time = 2.790 sec.
+
+
+Total Time 00:00:24

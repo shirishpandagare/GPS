@@ -1,0 +1,67 @@
+2018-04-04 09:15:09	Input SN : GPC8-PF5-N57
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 10241.676 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 39.0 (s)
+
+
+
+SNR1 = 42
+
+SNR2 = 42
+
+SNR3 = 42
+
+SNR4 = 42
+
+SNR5 = 48
+
+SNR6 = 48
+
+SNR7 = 48
+
+SNR8 = 48
+
+*********************
+
+GPS Signal Test PASS! Use time = 42.190 sec.
+
+
+Total Time 00:01:00

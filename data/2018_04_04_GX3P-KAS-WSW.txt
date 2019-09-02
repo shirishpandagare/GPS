@@ -1,0 +1,61 @@
+2018-04-04 07:35:20	Input SN : GX3P-KAS-WSW
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 154.896 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.580 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 38.0 (s)
+
+
+
+SNR1 = 45
+
+SNR2 = 45
+
+SNR3 = 44
+
+SNR4 = 45
+
+*********************
+
+GPS Signal Test PASS! Use time = 40.960 sec.
+
+
+Total Time 00:01:01

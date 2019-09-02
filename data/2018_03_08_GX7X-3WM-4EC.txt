@@ -1,0 +1,61 @@
+2018-03-08 18:04:03	Input SN : GX7X-3WM-4EC
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 371.119 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.560 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 120.0 (s)
+
+
+
+SNR1 = 40
+
+SNR2 = 39
+
+SNR3 = 39
+
+SNR4 = 39
+
+*********************
+
+GPS Signal Test PASS! Use time = 121.300 sec.
+
+
+Total Time 00:02:40

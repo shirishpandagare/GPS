@@ -1,0 +1,69 @@
+2018-03-28 16:08:39	Input SN : G299-UJM-FFG
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 5981.051 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.580 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 41.0 (s)
+
+
+
+SNR1 = 42
+
+SNR2 = 42
+
+SNR3 = 42
+
+SNR4 = 42
+
+SNR5 = 40
+
+SNR6 = 40
+
+SNR7 = 40
+
+SNR8 = 28
+
+*********************
+
+GPS Signal Test PASS! Use time = 42.560 sec.
+
+
+Total Time 00:01:24

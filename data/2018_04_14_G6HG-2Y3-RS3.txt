@@ -1,0 +1,61 @@
+2018-04-14 17:08:19	Input SN : G6HG-2Y3-RS3
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 108.379 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.580 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 30.0 (s)
+
+
+
+SNR1 = 48
+
+SNR2 = 48
+
+SNR3 = 48
+
+SNR4 = 48
+
+*********************
+
+GPS Signal Test PASS! Use time = 32.080 sec.
+
+
+Total Time 00:01:14

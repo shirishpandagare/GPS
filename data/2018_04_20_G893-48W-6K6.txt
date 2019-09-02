@@ -1,0 +1,69 @@
+2018-04-20 16:40:46	Input SN : G893-48W-6K6
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 2152.868 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.570 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 35.0 (s)
+
+
+
+SNR1 = 28
+
+SNR2 = 40
+
+SNR3 = 29
+
+SNR4 = 28
+
+SNR5 = 40
+
+SNR6 = 30
+
+SNR7 = 30
+
+SNR8 = 40
+
+*********************
+
+GPS Signal Test PASS! Use time = 37.790 sec.
+
+
+Total Time 00:01:19

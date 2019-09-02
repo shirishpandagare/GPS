@@ -1,0 +1,67 @@
+2018-04-15 13:04:37	Input SN : G7A3-YXJ-HP6
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 577.747 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 37.0 (s)
+
+
+
+SNR1 = 47
+
+SNR2 = 47
+
+SNR3 = 48
+
+SNR4 = 47
+
+SNR5 = 45
+
+SNR6 = 45
+
+SNR7 = 45
+
+SNR8 = 46
+
+*********************
+
+GPS Signal Test PASS! Use time = 40.530 sec.
+
+
+Total Time 00:01:19

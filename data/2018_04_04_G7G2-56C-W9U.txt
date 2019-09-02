@@ -1,0 +1,69 @@
+2018-04-04 02:58:07	Input SN : G7G2-56C-W9U
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 387.678 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.570 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 35.0 (s)
+
+
+
+SNR1 = 43
+
+SNR2 = 44
+
+SNR3 = 44
+
+SNR4 = 34
+
+SNR5 = 44
+
+SNR6 = 44
+
+SNR7 = 44
+
+SNR8 = 43
+
+*********************
+
+GPS Signal Test PASS! Use time = 35.740 sec.
+
+
+Total Time 00:00:57

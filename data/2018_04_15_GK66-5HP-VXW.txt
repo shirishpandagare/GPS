@@ -1,0 +1,67 @@
+2018-04-15 13:49:19	Input SN : GK66-5HP-VXW
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 683.137 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.580 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 39.0 (s)
+
+
+
+SNR1 = 45
+
+SNR2 = 46
+
+SNR3 = 46
+
+SNR4 = 46
+
+SNR5 = 45
+
+SNR6 = 46
+
+SNR7 = 46
+
+*********************
+
+GPS Signal Test PASS! Use time = 42.690 sec.
+
+
+Total Time 00:01:24

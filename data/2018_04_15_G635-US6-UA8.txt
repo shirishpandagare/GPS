@@ -1,0 +1,69 @@
+2018-04-15 02:11:13	Input SN : G635-US6-UA8
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 11484.231 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.570 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 34.0 (s)
+
+
+
+SNR1 = 42
+
+SNR2 = 43
+
+SNR3 = 43
+
+SNR4 = 42
+
+SNR5 = 40
+
+SNR6 = 29
+
+SNR7 = 41
+
+SNR8 = 28
+
+*********************
+
+GPS Signal Test PASS! Use time = 37.480 sec.
+
+
+Total Time 00:01:18

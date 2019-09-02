@@ -1,0 +1,67 @@
+2018-03-08 18:18:00	Input SN : GVUW-G4D-XM2
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 1301.824 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 30.0 (s)
+
+
+
+SNR1 = 34
+
+SNR2 = 38
+
+SNR3 = 38
+
+SNR4 = 34
+
+SNR5 = 27
+
+SNR6 = 38
+
+SNR7 = 39
+
+SNR8 = 39
+
+*********************
+
+GPS Signal Test PASS! Use time = 33.900 sec.
+
+
+Total Time 00:01:05

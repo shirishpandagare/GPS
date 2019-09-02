@@ -1,0 +1,59 @@
+2018-04-20 09:29:35	Input SN : G8GM-9RG-SBK
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 3.840 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 38.0 (s)
+
+
+
+SNR1 = 40
+
+SNR2 = 40
+
+SNR3 = 40
+
+SNR4 = 40
+
+*********************
+
+GPS Signal Test PASS! Use time = 39.900 sec.
+
+
+Total Time 00:00:58

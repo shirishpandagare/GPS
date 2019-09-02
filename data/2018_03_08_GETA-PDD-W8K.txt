@@ -1,0 +1,67 @@
+2018-03-08 20:27:00	Input SN : GETA-PDD-W8K
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 9029.102 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 41.0 (s)
+
+
+
+SNR1 = 31
+
+SNR2 = 27
+
+SNR3 = 27
+
+SNR4 = 37
+
+SNR5 = 37
+
+SNR6 = 27
+
+SNR7 = 37
+
+SNR8 = 27
+
+*********************
+
+GPS Signal Test PASS! Use time = 44.970 sec.
+
+
+Total Time 00:01:19

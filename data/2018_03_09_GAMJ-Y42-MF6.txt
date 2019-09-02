@@ -1,0 +1,69 @@
+2018-03-09 09:26:35	Input SN : GAMJ-Y42-MF6
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 1165.700 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.580 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 34.0 (s)
+
+
+
+SNR1 = 41
+
+SNR2 = 40
+
+SNR3 = 41
+
+SNR4 = 40
+
+SNR5 = 29
+
+SNR6 = 41
+
+SNR7 = 41
+
+SNR8 = 41
+
+*********************
+
+GPS Signal Test PASS! Use time = 37.330 sec.
+
+
+Total Time 00:01:17

@@ -1,0 +1,59 @@
+2018-04-04 11:28:57	Input SN : G6KN-6EC-Z9N
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 102.981 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 37.0 (s)
+
+
+
+SNR1 = 37
+
+SNR2 = 37
+
+SNR3 = 37
+
+SNR4 = 37
+
+*********************
+
+GPS Signal Test PASS! Use time = 39.470 sec.
+
+
+Total Time 00:01:17

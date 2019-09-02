@@ -1,0 +1,69 @@
+2018-04-15 05:10:18	Input SN : GUFD-M7F-DKY
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 22228.959 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.570 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 35.0 (s)
+
+
+
+SNR1 = 42
+
+SNR2 = 42
+
+SNR3 = 42
+
+SNR4 = 42
+
+SNR5 = 42
+
+SNR6 = 42
+
+SNR7 = 42
+
+SNR8 = 42
+
+*********************
+
+GPS Signal Test PASS! Use time = 37.870 sec.
+
+
+Total Time 00:01:19

@@ -1,0 +1,67 @@
+2018-04-21 13:01:34	Input SN : G6HY-ZRV-22K
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 9199.395 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 37.0 (s)
+
+
+
+SNR1 = 48
+
+SNR2 = 48
+
+SNR3 = 47
+
+SNR4 = 48
+
+SNR5 = 48
+
+SNR6 = 49
+
+SNR7 = 49
+
+SNR8 = 46
+
+*********************
+
+GPS Signal Test PASS! Use time = 40.761 sec.
+
+
+Total Time 00:01:16

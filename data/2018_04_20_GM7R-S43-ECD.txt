@@ -1,0 +1,69 @@
+2018-04-20 16:32:57	Input SN : GM7R-S43-ECD
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 1678.371 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.580 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 27.0 (s)
+
+
+
+SNR1 = 29
+
+SNR2 = 29
+
+SNR3 = 30
+
+SNR4 = 40
+
+SNR5 = 40
+
+SNR6 = 28
+
+SNR7 = 35
+
+SNR8 = 40
+
+*********************
+
+GPS Signal Test PASS! Use time = 40.430 sec.
+
+
+Total Time 00:01:25

@@ -1,0 +1,61 @@
+2018-04-04 07:11:05	Input SN : GJS9-2HD-FSB
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 6490.271 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.580 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 31.0 (s)
+
+
+
+SNR1 = 44
+
+SNR2 = 44
+
+SNR3 = 45
+
+SNR4 = 45
+
+*********************
+
+GPS Signal Test PASS! Use time = 34.260 sec.
+
+
+Total Time 00:00:58

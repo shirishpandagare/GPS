@@ -1,0 +1,69 @@
+2018-03-08 19:17:32	Input SN : GRBS-B6Z-H7C
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 4778.383 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.580 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 102.0 (s)
+
+
+
+SNR1 = 35
+
+SNR2 = 28
+
+SNR3 = 28
+
+SNR4 = 29
+
+SNR5 = 36
+
+SNR6 = 30
+
+SNR7 = 35
+
+SNR8 = 35
+
+*********************
+
+GPS Signal Test PASS! Use time = 120.950 sec.
+
+
+Total Time 00:02:41

@@ -1,0 +1,67 @@
+2018-04-14 16:45:48	Input SN : GTDE-CDE-22Z
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 388.408 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 28.0 (s)
+
+
+
+SNR1 = 45
+
+SNR2 = 46
+
+SNR3 = 45
+
+SNR4 = 29
+
+SNR5 = 45
+
+SNR6 = 46
+
+SNR7 = 45
+
+SNR8 = 46
+
+*********************
+
+GPS Signal Test PASS! Use time = 29.990 sec.
+
+
+Total Time 00:01:07

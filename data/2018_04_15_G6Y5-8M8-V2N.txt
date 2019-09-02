@@ -1,0 +1,67 @@
+2018-04-15 02:08:18	Input SN : G6Y5-8M8-V2N
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 11315.948 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 34.0 (s)
+
+
+
+SNR1 = 45
+
+SNR2 = 45
+
+SNR3 = 45
+
+SNR4 = 44
+
+SNR5 = 40
+
+SNR6 = 29
+
+SNR7 = 41
+
+SNR8 = 28
+
+*********************
+
+GPS Signal Test PASS! Use time = 38.020 sec.
+
+
+Total Time 00:01:11

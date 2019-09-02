@@ -1,0 +1,67 @@
+2018-03-08 20:04:14	Input SN : GHBM-7TN-5Z5
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 7425.789 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 9.0 (s)
+
+
+
+SNR1 = 31
+
+SNR2 = 32
+
+SNR3 = 31
+
+SNR4 = 30
+
+SNR5 = 32
+
+SNR6 = 28
+
+SNR7 = 29
+
+SNR8 = 32
+
+*********************
+
+GPS Signal Test PASS! Use time = 120.493 sec.
+
+
+Total Time 00:02:44

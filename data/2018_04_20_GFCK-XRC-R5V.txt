@@ -1,0 +1,67 @@
+2018-04-20 15:48:17	Input SN : GFCK-XRC-R5V
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 3383.820 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 29.0 (s)
+
+
+
+SNR1 = 45
+
+SNR2 = 46
+
+SNR3 = 46
+
+SNR4 = 46
+
+SNR5 = 46
+
+SNR6 = 47
+
+SNR7 = 47
+
+SNR8 = 46
+
+*********************
+
+GPS Signal Test PASS! Use time = 32.890 sec.
+
+
+Total Time 00:01:10

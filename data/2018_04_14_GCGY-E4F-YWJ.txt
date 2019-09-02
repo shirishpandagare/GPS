@@ -1,0 +1,69 @@
+2018-04-14 22:21:26	Input SN : GCGY-E4F-YWJ
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 4146.518 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.580 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 24.0 (s)
+
+
+
+SNR1 = 43
+
+SNR2 = 43
+
+SNR3 = 43
+
+SNR4 = 43
+
+SNR5 = 42
+
+SNR6 = 31
+
+SNR7 = 30
+
+SNR8 = 42
+
+*********************
+
+GPS Signal Test PASS! Use time = 65.480 sec.
+
+
+Total Time 00:01:45

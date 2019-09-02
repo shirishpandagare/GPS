@@ -1,0 +1,67 @@
+2018-04-04 08:02:59	Input SN : GTUK-2YD-FH3
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 9602.047 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 35.0 (s)
+
+
+
+SNR1 = 46
+
+SNR2 = 46
+
+SNR3 = 45
+
+SNR4 = 45
+
+SNR5 = 41
+
+SNR6 = 41
+
+SNR7 = 41
+
+SNR8 = 41
+
+*********************
+
+GPS Signal Test PASS! Use time = 38.510 sec.
+
+
+Total Time 00:00:59

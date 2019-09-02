@@ -1,0 +1,67 @@
+2018-04-20 15:51:19	Input SN : GWBW-HJJ-FET
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 883.643 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.600 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 24.0 (s)
+
+
+
+SNR1 = 31
+
+SNR2 = 43
+
+SNR3 = 43
+
+SNR4 = 43
+
+SNR5 = 41
+
+SNR6 = 41
+
+SNR7 = 41
+
+SNR8 = 28
+
+*********************
+
+GPS Signal Test PASS! Use time = 29.200 sec.
+
+
+Total Time 00:01:08

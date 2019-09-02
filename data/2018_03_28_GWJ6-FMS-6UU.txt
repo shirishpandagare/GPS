@@ -1,0 +1,69 @@
+2018-03-28 15:30:14	Input SN : GWJ6-FMS-6UU
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 2870.463 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.580 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 67.0 (s)
+
+
+
+SNR1 = 43
+
+SNR2 = 43
+
+SNR3 = 43
+
+SNR4 = 42
+
+SNR5 = 41
+
+SNR6 = 40
+
+SNR7 = 41
+
+SNR8 = 31
+
+*********************
+
+GPS Signal Test PASS! Use time = 69.810 sec.
+
+
+Total Time 00:01:52

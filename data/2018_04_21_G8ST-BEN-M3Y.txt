@@ -1,0 +1,69 @@
+2018-04-21 13:28:01	Input SN : G8ST-BEN-M3Y
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 9265.056 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.570 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 34.0 (s)
+
+
+
+SNR1 = 39
+
+SNR2 = 40
+
+SNR3 = 39
+
+SNR4 = 39
+
+SNR5 = 39
+
+SNR6 = 39
+
+SNR7 = 39
+
+SNR8 = 40
+
+*********************
+
+GPS Signal Test PASS! Use time = 37.790 sec.
+
+
+Total Time 00:01:21

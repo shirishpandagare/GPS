@@ -1,0 +1,69 @@
+2018-03-09 10:51:53	Input SN : G58R-PPC-BAP
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 1963.487 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.550 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 119.0 (s)
+
+
+
+SNR1 = 38
+
+SNR2 = 38
+
+SNR3 = 29
+
+SNR4 = 38
+
+SNR5 = 36
+
+SNR6 = 37
+
+SNR7 = 36
+
+SNR8 = 28
+
+*********************
+
+GPS Signal Test PASS! Use time = 120.390 sec.
+
+
+Total Time 00:02:40

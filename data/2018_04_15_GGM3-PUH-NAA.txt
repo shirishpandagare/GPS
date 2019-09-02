@@ -1,0 +1,69 @@
+2018-04-15 01:16:18	Input SN : GGM3-PUH-NAA
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 8188.430 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.570 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 36.0 (s)
+
+
+
+SNR1 = 43
+
+SNR2 = 42
+
+SNR3 = 42
+
+SNR4 = 43
+
+SNR5 = 43
+
+SNR6 = 44
+
+SNR7 = 44
+
+SNR8 = 44
+
+*********************
+
+GPS Signal Test PASS! Use time = 39.650 sec.
+
+
+Total Time 00:01:19

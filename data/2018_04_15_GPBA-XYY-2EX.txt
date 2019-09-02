@@ -1,0 +1,65 @@
+2018-04-15 13:50:47	Input SN : GPBA-XYY-2EX
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 791.109 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 23.0 (s)
+
+
+
+SNR1 = 45
+
+SNR2 = 44
+
+SNR3 = 44
+
+SNR4 = 45
+
+SNR5 = 44
+
+SNR6 = 44
+
+SNR7 = 44
+
+*********************
+
+GPS Signal Test PASS! Use time = 25.690 sec.
+
+
+Total Time 00:01:03

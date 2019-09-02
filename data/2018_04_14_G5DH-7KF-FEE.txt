@@ -1,0 +1,67 @@
+2018-04-14 16:13:03	Input SN : G5DH-7KF-FEE
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 596.745 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.580 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 36.0 (s)
+
+
+
+SNR1 = 48
+
+SNR2 = 48
+
+SNR3 = 48
+
+SNR4 = 49
+
+SNR5 = 48
+
+SNR6 = 49
+
+SNR7 = 47
+
+*********************
+
+GPS Signal Test PASS! Use time = 36.790 sec.
+
+
+Total Time 00:01:15

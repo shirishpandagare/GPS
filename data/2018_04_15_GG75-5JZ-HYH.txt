@@ -1,0 +1,59 @@
+2018-04-15 08:34:35	Input SN : GG75-5JZ-HYH
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 26.969 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 40.0 (s)
+
+
+
+SNR5 = 45
+
+SNR6 = 46
+
+SNR7 = 45
+
+SNR8 = 45
+
+*********************
+
+GPS Signal Test PASS! Use time = 42.140 sec.
+
+
+Total Time 00:01:09

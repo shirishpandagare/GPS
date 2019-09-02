@@ -1,0 +1,61 @@
+2018-04-04 10:55:03	Input SN : GCMF-ZY5-SGK
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 231.169 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.580 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 26.0 (s)
+
+
+
+SNR1 = 35
+
+SNR2 = 35
+
+SNR3 = 35
+
+SNR4 = 35
+
+*********************
+
+GPS Signal Test PASS! Use time = 28.610 sec.
+
+
+Total Time 00:01:09

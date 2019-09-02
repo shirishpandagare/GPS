@@ -1,0 +1,67 @@
+2018-04-04 03:52:57	Input SN : G4AG-JS7-HRH
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 1465.594 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 34.0 (s)
+
+
+
+SNR1 = 45
+
+SNR2 = 45
+
+SNR3 = 45
+
+SNR4 = 45
+
+SNR5 = 47
+
+SNR6 = 46
+
+SNR7 = 47
+
+SNR8 = 46
+
+*********************
+
+GPS Signal Test PASS! Use time = 36.730 sec.
+
+
+Total Time 00:00:58

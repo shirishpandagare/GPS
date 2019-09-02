@@ -1,0 +1,67 @@
+2018-04-21 11:08:57	Input SN : GGXU-2T6-XFY
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 924.757 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 35.0 (s)
+
+
+
+SNR1 = 42
+
+SNR2 = 42
+
+SNR3 = 42
+
+SNR4 = 42
+
+SNR5 = 40
+
+SNR6 = 40
+
+SNR7 = 28
+
+SNR8 = 40
+
+*********************
+
+GPS Signal Test PASS! Use time = 37.740 sec.
+
+
+Total Time 00:01:18

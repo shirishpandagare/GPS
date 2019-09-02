@@ -1,0 +1,67 @@
+2018-04-14 14:54:13	Input SN : G798-CDX-ZM4
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 652.694 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 35.0 (s)
+
+
+
+SNR1 = 47
+
+SNR2 = 46
+
+SNR3 = 47
+
+SNR4 = 46
+
+SNR5 = 42
+
+SNR6 = 42
+
+SNR7 = 41
+
+SNR8 = 30
+
+*********************
+
+GPS Signal Test PASS! Use time = 94.611 sec.
+
+
+Total Time 00:02:08

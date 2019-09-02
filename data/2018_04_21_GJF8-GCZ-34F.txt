@@ -1,0 +1,67 @@
+2018-04-21 03:25:17	Input SN : GJF8-GCZ-34F
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 8073.940 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 31.0 (s)
+
+
+
+SNR1 = 46
+
+SNR2 = 46
+
+SNR3 = 45
+
+SNR4 = 46
+
+SNR5 = 46
+
+SNR6 = 46
+
+SNR7 = 46
+
+SNR8 = 46
+
+*********************
+
+GPS Signal Test PASS! Use time = 33.500 sec.
+
+
+Total Time 00:01:14

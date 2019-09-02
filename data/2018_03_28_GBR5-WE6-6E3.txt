@@ -1,0 +1,67 @@
+2018-03-28 16:20:03	Input SN : GBR5-WE6-6E3
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 5835.282 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 37.0 (s)
+
+
+
+SNR1 = 45
+
+SNR2 = 45
+
+SNR3 = 45
+
+SNR4 = 45
+
+SNR5 = 40
+
+SNR6 = 40
+
+SNR7 = 40
+
+SNR8 = 41
+
+*********************
+
+GPS Signal Test PASS! Use time = 95.550 sec.
+
+
+Total Time 00:02:16

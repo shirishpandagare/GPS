@@ -1,0 +1,69 @@
+2018-04-03 23:14:36	Input SN : G88C-ABC-BYY
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 5630.885 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.580 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 33.0 (s)
+
+
+
+SNR1 = 45
+
+SNR2 = 46
+
+SNR3 = 45
+
+SNR4 = 46
+
+SNR5 = 46
+
+SNR6 = 46
+
+SNR7 = 46
+
+SNR8 = 42
+
+*********************
+
+GPS Signal Test PASS! Use time = 36.800 sec.
+
+
+Total Time 00:01:00

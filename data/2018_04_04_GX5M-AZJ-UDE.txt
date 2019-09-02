@@ -1,0 +1,67 @@
+2018-04-04 06:07:40	Input SN : GX5M-AZJ-UDE
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 7263.308 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 36.0 (s)
+
+
+
+SNR1 = 47
+
+SNR2 = 47
+
+SNR3 = 47
+
+SNR4 = 46
+
+SNR5 = 47
+
+SNR6 = 46
+
+SNR7 = 29
+
+SNR8 = 47
+
+*********************
+
+GPS Signal Test PASS! Use time = 50.870 sec.
+
+
+Total Time 00:01:08

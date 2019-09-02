@@ -1,0 +1,69 @@
+2018-03-09 09:09:41	Input SN : GD3H-GRZ-5E5
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 152.343 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.580 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 36.0 (s)
+
+
+
+SNR1 = 40
+
+SNR2 = 40
+
+SNR3 = 40
+
+SNR4 = 40
+
+SNR5 = 40
+
+SNR6 = 41
+
+SNR7 = 40
+
+SNR8 = 40
+
+*********************
+
+GPS Signal Test PASS! Use time = 39.590 sec.
+
+
+Total Time 00:01:16

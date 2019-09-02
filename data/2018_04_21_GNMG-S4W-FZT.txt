@@ -1,0 +1,67 @@
+2018-04-21 11:28:58	Input SN : GNMG-S4W-FZT
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 2071.425 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.620 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 37.0 (s)
+
+
+
+SNR1 = 41
+
+SNR2 = 41
+
+SNR3 = 40
+
+SNR4 = 40
+
+SNR5 = 38
+
+SNR6 = 27
+
+SNR7 = 38
+
+SNR8 = 38
+
+*********************
+
+GPS Signal Test PASS! Use time = 94.871 sec.
+
+
+Total Time 00:02:12

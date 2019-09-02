@@ -1,0 +1,67 @@
+2018-03-08 18:52:59	Input SN : GRJH-8ER-6FG
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 3400.341 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 28.0 (s)
+
+
+
+SNR1 = 32
+
+SNR2 = 28
+
+SNR3 = 30
+
+SNR4 = 27
+
+SNR5 = 28
+
+SNR6 = 39
+
+SNR7 = 30
+
+SNR8 = 39
+
+*********************
+
+GPS Signal Test PASS! Use time = 30.850 sec.
+
+
+Total Time 00:01:05

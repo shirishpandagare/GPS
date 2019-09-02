@@ -1,0 +1,61 @@
+2018-05-02 17:15:33	Input SN : GZ6D-DTS-TAV
+
+
+
+
+=====================
+
+GPS Module Detect....
+
+=====================
+
+Detect OK! Use time = 1.732 sec.
+
+
+
+
+
+=====================
+
+Enable GPS Module....
+
+=====================
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.590 sec.
+
+
+
+
+
+=====================
+
+GPS Signal Test....
+
+=====================
+
+TTFF = 35.0 (s)
+
+
+
+SNR1 = 43
+
+SNR2 = 43
+
+SNR3 = 43
+
+SNR4 = 43
+
+*********************
+
+GPS Signal Test PASS! Use time = 38.550 sec.
+
+
+Total Time 00:01:02

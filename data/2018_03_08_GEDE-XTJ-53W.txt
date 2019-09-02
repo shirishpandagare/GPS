@@ -1,0 +1,54 @@
+2018-03-08 19:40:56	Input SN : GEDE-XTJ-53W
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 6031.637 sec.
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.550 sec.
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 112.0 (s)
+
+SNR1 = 34
+
+SNR2 = 34
+
+SNR3 = 34
+
+SNR4 = 34
+
+SNR5 = 38
+
+SNR6 = 37
+
+SNR7 = 30
+
+SNR8 = 38
+
+*********************
+
+GPS Signal Test PASS! Use time = 121.054 sec.
+
+
+Total Time 00:02:41

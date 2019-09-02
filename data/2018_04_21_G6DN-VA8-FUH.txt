@@ -1,0 +1,61 @@
+2018-04-21 08:44:42	Input SN : G6DN-VA8-FUH
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 606.977 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.580 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 34.0 (s)
+
+
+
+SNR1 = 46
+
+SNR2 = 46
+
+SNR3 = 46
+
+SNR4 = 46
+
+*********************
+
+GPS Signal Test PASS! Use time = 95.231 sec.
+
+
+Total Time 00:02:15

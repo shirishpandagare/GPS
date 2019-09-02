@@ -1,0 +1,67 @@
+2018-04-04 05:54:09	Input SN : GZ9P-BK9-SVK
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 6477.749 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 22.0 (s)
+
+
+
+SNR1 = 46
+
+SNR2 = 47
+
+SNR3 = 47
+
+SNR4 = 46
+
+SNR5 = 46
+
+SNR6 = 46
+
+SNR7 = 46
+
+SNR8 = 47
+
+*********************
+
+GPS Signal Test PASS! Use time = 25.430 sec.
+
+
+Total Time 00:00:44

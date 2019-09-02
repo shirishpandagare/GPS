@@ -1,0 +1,59 @@
+2018-03-28 14:29:56	Input SN : GJ6D-ZGV-7CC
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 673.979 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.611 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 33.0 (s)
+
+
+
+SNR1 = 30
+
+SNR2 = 33
+
+SNR3 = 33
+
+SNR4 = 30
+
+*********************
+
+GPS Signal Test PASS! Use time = 34.910 sec.
+
+
+Total Time 00:01:16

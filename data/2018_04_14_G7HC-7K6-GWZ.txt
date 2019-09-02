@@ -1,0 +1,67 @@
+2018-04-14 23:54:51	Input SN : G7HC-7K6-GWZ
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 3278.877 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 31.0 (s)
+
+
+
+SNR1 = 43
+
+SNR2 = 43
+
+SNR3 = 43
+
+SNR4 = 28
+
+SNR5 = 30
+
+SNR6 = 43
+
+SNR7 = 43
+
+SNR8 = 29
+
+*********************
+
+GPS Signal Test PASS! Use time = 66.540 sec.
+
+
+Total Time 00:01:41

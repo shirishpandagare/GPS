@@ -1,0 +1,67 @@
+2018-03-28 16:16:30	Input SN : GMX6-4EY-APM
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 6458.998 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 36.0 (s)
+
+
+
+SNR1 = 28
+
+SNR2 = 39
+
+SNR3 = 40
+
+SNR4 = 40
+
+SNR5 = 40
+
+SNR6 = 30
+
+SNR7 = 40
+
+SNR8 = 40
+
+*********************
+
+GPS Signal Test PASS! Use time = 37.190 sec.
+
+
+Total Time 00:01:17

@@ -1,0 +1,67 @@
+2018-03-08 18:24:00	Input SN : GVYM-RHT-SGA
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 1651.733 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 39.0 (s)
+
+
+
+SNR1 = 38
+
+SNR2 = 38
+
+SNR3 = 37
+
+SNR4 = 38
+
+SNR5 = 39
+
+SNR6 = 38
+
+SNR7 = 39
+
+SNR8 = 28
+
+*********************
+
+GPS Signal Test PASS! Use time = 42.220 sec.
+
+
+Total Time 00:01:16

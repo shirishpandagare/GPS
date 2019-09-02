@@ -1,0 +1,67 @@
+2018-04-04 05:27:39	Input SN : G97X-KTH-XK9
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 4876.338 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 33.0 (s)
+
+
+
+SNR1 = 48
+
+SNR2 = 48
+
+SNR3 = 47
+
+SNR4 = 48
+
+SNR5 = 46
+
+SNR6 = 46
+
+SNR7 = 46
+
+SNR8 = 47
+
+*********************
+
+GPS Signal Test PASS! Use time = 36.810 sec.
+
+
+Total Time 00:00:55

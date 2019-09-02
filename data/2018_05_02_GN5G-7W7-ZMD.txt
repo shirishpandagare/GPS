@@ -1,0 +1,69 @@
+2018-05-02 17:08:22	Input SN : GN5G-7W7-ZMD
+
+
+
+
+=====================
+
+GPS Module Detect....
+
+=====================
+
+Detect OK! Use time = 15.744 sec.
+
+
+
+
+
+=====================
+
+Enable GPS Module....
+
+=====================
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.560 sec.
+
+
+
+
+
+=====================
+
+GPS Signal Test....
+
+=====================
+
+TTFF = 34.0 (s)
+
+
+
+SNR1 = 45
+
+SNR2 = 44
+
+SNR3 = 44
+
+SNR4 = 45
+
+SNR5 = 44
+
+SNR6 = 45
+
+SNR7 = 44
+
+SNR8 = 44
+
+*********************
+
+GPS Signal Test PASS! Use time = 41.040 sec.
+
+
+Total Time 00:01:16

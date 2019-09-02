@@ -1,0 +1,67 @@
+2018-04-04 01:37:50	Input SN : GR4Y-VXG-PUB
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 1231.589 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 36.0 (s)
+
+
+
+SNR1 = 47
+
+SNR2 = 47
+
+SNR3 = 47
+
+SNR4 = 46
+
+SNR5 = 46
+
+SNR6 = 47
+
+SNR7 = 47
+
+SNR8 = 44
+
+*********************
+
+GPS Signal Test PASS! Use time = 39.650 sec.
+
+
+Total Time 00:00:58

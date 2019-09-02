@@ -1,0 +1,61 @@
+2018-04-20 23:45:06	Input SN : GPXS-VBA-A7N
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 2734.609 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.580 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 35.0 (s)
+
+
+
+SNR1 = 43
+
+SNR2 = 43
+
+SNR3 = 43
+
+SNR4 = 43
+
+*********************
+
+GPS Signal Test PASS! Use time = 36.030 sec.
+
+
+Total Time 00:01:15

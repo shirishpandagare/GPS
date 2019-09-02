@@ -1,0 +1,65 @@
+2018-04-04 02:29:09	Input SN : GG6D-TNR-DB4
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 507.700 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 34.0 (s)
+
+
+
+SNR1 = 44
+
+SNR2 = 44
+
+SNR3 = 44
+
+SNR4 = 34
+
+SNR5 = 45
+
+SNR6 = 45
+
+SNR7 = 46
+
+*********************
+
+GPS Signal Test PASS! Use time = 37.520 sec.
+
+
+Total Time 00:00:56

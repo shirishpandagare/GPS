@@ -1,0 +1,67 @@
+2018-04-21 11:20:42	Input SN : GH7R-5A4-XPW
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 1636.553 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 29.0 (s)
+
+
+
+SNR1 = 41
+
+SNR2 = 41
+
+SNR3 = 40
+
+SNR4 = 40
+
+SNR5 = 32
+
+SNR6 = 41
+
+SNR7 = 40
+
+SNR8 = 41
+
+*********************
+
+GPS Signal Test PASS! Use time = 32.360 sec.
+
+
+Total Time 00:01:10

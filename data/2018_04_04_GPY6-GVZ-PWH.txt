@@ -1,0 +1,67 @@
+2018-04-04 01:55:58	Input SN : GPY6-GVZ-PWH
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 441.278 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.560 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 35.0 (s)
+
+
+
+SNR1 = 44
+
+SNR2 = 45
+
+SNR3 = 44
+
+SNR4 = 45
+
+SNR5 = 44
+
+SNR6 = 44
+
+SNR7 = 44
+
+*********************
+
+GPS Signal Test PASS! Use time = 38.080 sec.
+
+
+Total Time 00:00:59

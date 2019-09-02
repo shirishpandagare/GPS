@@ -1,0 +1,69 @@
+2018-03-08 19:20:14	Input SN : GNUZ-PES-8TN
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 4962.984 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.570 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 42.0 (s)
+
+
+
+SNR1 = 35
+
+SNR2 = 28
+
+SNR3 = 28
+
+SNR4 = 29
+
+SNR5 = 36
+
+SNR6 = 30
+
+SNR7 = 35
+
+SNR8 = 35
+
+*********************
+
+GPS Signal Test PASS! Use time = 98.550 sec.
+
+
+Total Time 00:02:18

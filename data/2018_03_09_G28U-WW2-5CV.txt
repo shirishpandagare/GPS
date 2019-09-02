@@ -1,0 +1,59 @@
+2018-03-09 10:39:40	Input SN : G28U-WW2-5CV
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 748.995 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 35.0 (s)
+
+
+
+SNR5 = 40
+
+SNR6 = 41
+
+SNR7 = 41
+
+SNR8 = 40
+
+*********************
+
+GPS Signal Test PASS! Use time = 38.190 sec.
+
+
+Total Time 00:01:14

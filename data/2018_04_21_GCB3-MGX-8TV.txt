@@ -1,0 +1,69 @@
+2018-04-21 10:58:45	Input SN : GCB3-MGX-8TV
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 1832.508 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.580 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 29.0 (s)
+
+
+
+SNR1 = 47
+
+SNR2 = 47
+
+SNR3 = 47
+
+SNR4 = 47
+
+SNR5 = 46
+
+SNR6 = 48
+
+SNR7 = 47
+
+SNR8 = 47
+
+*********************
+
+GPS Signal Test PASS! Use time = 31.650 sec.
+
+
+Total Time 00:01:13

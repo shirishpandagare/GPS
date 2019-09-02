@@ -1,0 +1,65 @@
+2018-05-02 16:51:14	Input SN : GJAF-GKU-NCR
+
+
+
+
+=====================
+
+GPS Module Detect....
+
+=====================
+
+Detect OK! Use time = 1.642 sec.
+
+
+
+
+
+=====================
+
+Enable GPS Module....
+
+=====================
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.600 sec.
+
+
+
+
+
+=====================
+
+GPS Signal Test....
+
+=====================
+
+TTFF = 3.0 (s)
+
+
+
+SNR1 = 45
+
+SNR2 = 45
+
+SNR3 = 44
+
+SNR4 = 45
+
+SNR5 = 45
+
+SNR6 = 45
+
+SNR7 = 45
+
+*********************
+
+GPS Signal Test PASS! Use time = 9.110 sec.
+
+
+Total Time 00:00:26

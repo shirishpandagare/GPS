@@ -1,0 +1,61 @@
+2018-04-15 13:43:02	Input SN : GNRX-WW5-5ZM
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 312.665 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.570 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 35.0 (s)
+
+
+
+SNR1 = 46
+
+SNR2 = 46
+
+SNR3 = 45
+
+SNR4 = 46
+
+*********************
+
+GPS Signal Test PASS! Use time = 37.600 sec.
+
+
+Total Time 00:01:17

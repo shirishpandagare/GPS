@@ -1,0 +1,69 @@
+2018-04-14 22:38:48	Input SN : GERE-M6H-ZNK
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 5212.613 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.570 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 38.0 (s)
+
+
+
+SNR1 = 45
+
+SNR2 = 45
+
+SNR3 = 44
+
+SNR4 = 44
+
+SNR5 = 42
+
+SNR6 = 31
+
+SNR7 = 30
+
+SNR8 = 42
+
+*********************
+
+GPS Signal Test PASS! Use time = 41.420 sec.
+
+
+Total Time 00:01:21

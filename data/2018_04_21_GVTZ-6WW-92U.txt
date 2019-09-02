@@ -1,0 +1,67 @@
+2018-04-21 11:44:42	Input SN : GVTZ-6WW-92U
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 1342.719 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.600 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 37.0 (s)
+
+
+
+SNR1 = 43
+
+SNR2 = 43
+
+SNR3 = 43
+
+SNR4 = 43
+
+SNR5 = 42
+
+SNR6 = 42
+
+SNR7 = 42
+
+SNR8 = 42
+
+*********************
+
+GPS Signal Test PASS! Use time = 78.111 sec.
+
+
+Total Time 00:01:56

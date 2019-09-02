@@ -1,0 +1,67 @@
+2018-04-20 16:38:44	Input SN : GJHZ-HEN-VXR
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 2002.648 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 38.0 (s)
+
+
+
+SNR1 = 28
+
+SNR2 = 40
+
+SNR3 = 29
+
+SNR4 = 28
+
+SNR5 = 40
+
+SNR6 = 28
+
+SNR7 = 40
+
+SNR8 = 37
+
+*********************
+
+GPS Signal Test PASS! Use time = 70.040 sec.
+
+
+Total Time 00:01:47

@@ -1,0 +1,67 @@
+2018-04-21 03:00:04	Input SN : GF4V-H4U-W4P
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 2659.213 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.600 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 30.0 (s)
+
+
+
+SNR1 = 39
+
+SNR2 = 39
+
+SNR3 = 39
+
+SNR4 = 39
+
+SNR5 = 40
+
+SNR6 = 40
+
+SNR7 = 39
+
+SNR8 = 40
+
+*********************
+
+GPS Signal Test PASS! Use time = 79.400 sec.
+
+
+Total Time 00:01:57

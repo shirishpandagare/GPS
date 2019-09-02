@@ -1,0 +1,61 @@
+2018-04-20 23:56:15	Input SN : GF9T-U6F-6T4
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 3401.414 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.570 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 33.0 (s)
+
+
+
+SNR1 = 44
+
+SNR2 = 44
+
+SNR3 = 44
+
+SNR4 = 44
+
+*********************
+
+GPS Signal Test PASS! Use time = 35.350 sec.
+
+
+Total Time 00:01:16

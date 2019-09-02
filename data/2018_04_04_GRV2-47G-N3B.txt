@@ -1,0 +1,61 @@
+2018-04-04 11:39:47	Input SN : GRV2-47G-N3B
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 393.932 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.580 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 120.0 (s)
+
+
+
+SNR1 = 39
+
+SNR2 = 39
+
+SNR3 = 39
+
+SNR4 = 39
+
+*********************
+
+GPS Signal Test PASS! Use time = 120.200 sec.
+
+
+Total Time 00:02:48

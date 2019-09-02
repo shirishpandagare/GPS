@@ -1,0 +1,67 @@
+2018-04-04 11:11:17	Input SN : GWBX-EH5-AMK
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 1548.752 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.600 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 52.0 (s)
+
+
+
+SNR1 = 31
+
+SNR2 = 31
+
+SNR3 = 31
+
+SNR4 = 31
+
+SNR5 = 32
+
+SNR6 = 32
+
+SNR7 = 31
+
+SNR8 = 28
+
+*********************
+
+GPS Signal Test PASS! Use time = 70.080 sec.
+
+
+Total Time 00:01:46

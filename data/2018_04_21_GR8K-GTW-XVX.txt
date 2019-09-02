@@ -1,0 +1,69 @@
+2018-04-21 03:25:47	Input SN : GR8K-GTW-XVX
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 4241.255 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.560 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 34.0 (s)
+
+
+
+SNR1 = 42
+
+SNR2 = 42
+
+SNR3 = 41
+
+SNR4 = 41
+
+SNR5 = 40
+
+SNR6 = 40
+
+SNR7 = 40
+
+SNR8 = 41
+
+*********************
+
+GPS Signal Test PASS! Use time = 37.420 sec.
+
+
+Total Time 00:01:20

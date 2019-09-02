@@ -1,0 +1,67 @@
+2018-04-15 13:09:37	Input SN : G745-N25-K6F
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 878.795 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 38.0 (s)
+
+
+
+SNR1 = 46
+
+SNR2 = 46
+
+SNR3 = 46
+
+SNR4 = 46
+
+SNR5 = 45
+
+SNR6 = 45
+
+SNR7 = 45
+
+SNR8 = 46
+
+*********************
+
+GPS Signal Test PASS! Use time = 40.950 sec.
+
+
+Total Time 00:01:17

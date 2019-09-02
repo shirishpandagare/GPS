@@ -1,0 +1,67 @@
+2018-04-20 23:53:26	Input SN : GETE-5JS-U38
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 1091.130 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.600 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 37.0 (s)
+
+
+
+SNR1 = 39
+
+SNR2 = 39
+
+SNR3 = 38
+
+SNR4 = 29
+
+SNR5 = 39
+
+SNR6 = 38
+
+SNR7 = 39
+
+SNR8 = 40
+
+*********************
+
+GPS Signal Test PASS! Use time = 120.010 sec.
+
+
+Total Time 00:02:35

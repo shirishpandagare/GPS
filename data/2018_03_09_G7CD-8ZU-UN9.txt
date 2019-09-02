@@ -1,0 +1,67 @@
+2018-03-09 09:47:24	Input SN : G7CD-8ZU-UN9
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 103.332 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 36.0 (s)
+
+
+
+SNR1 = 41
+
+SNR2 = 41
+
+SNR3 = 41
+
+SNR4 = 41
+
+SNR5 = 40
+
+SNR6 = 40
+
+SNR7 = 40
+
+SNR8 = 41
+
+*********************
+
+GPS Signal Test PASS! Use time = 38.590 sec.
+
+
+Total Time 00:01:15

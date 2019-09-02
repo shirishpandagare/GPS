@@ -1,0 +1,59 @@
+2018-04-21 02:20:42	Input SN : G2AD-BRD-82T
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 283.088 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.600 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 36.0 (s)
+
+
+
+SNR1 = 40
+
+SNR2 = 40
+
+SNR3 = 40
+
+SNR4 = 40
+
+*********************
+
+GPS Signal Test PASS! Use time = 94.880 sec.
+
+
+Total Time 00:02:11

@@ -1,0 +1,67 @@
+2018-03-28 16:08:40	Input SN : G5A4-HT2-69E
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 6551.918 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 81.0 (s)
+
+
+
+SNR1 = 40
+
+SNR2 = 30
+
+SNR3 = 40
+
+SNR4 = 40
+
+SNR5 = 39
+
+SNR6 = 39
+
+SNR7 = 39
+
+SNR8 = 27
+
+*********************
+
+GPS Signal Test PASS! Use time = 82.470 sec.
+
+
+Total Time 00:02:02

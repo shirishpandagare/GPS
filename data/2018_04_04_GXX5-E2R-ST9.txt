@@ -1,0 +1,59 @@
+2018-04-04 11:32:33	Input SN : GXX5-E2R-ST9
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 60.276 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 41.0 (s)
+
+
+
+SNR1 = 35
+
+SNR2 = 35
+
+SNR3 = 35
+
+SNR4 = 35
+
+*********************
+
+GPS Signal Test PASS! Use time = 42.200 sec.
+
+
+Total Time 00:01:06

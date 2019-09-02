@@ -1,0 +1,59 @@
+2018-04-04 07:17:31	Input SN : GK6W-ZWT-D66
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 406.080 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 38.0 (s)
+
+
+
+SNR1 = 43
+
+SNR2 = 43
+
+SNR3 = 43
+
+SNR4 = 44
+
+*********************
+
+GPS Signal Test PASS! Use time = 93.190 sec.
+
+
+Total Time 00:01:51

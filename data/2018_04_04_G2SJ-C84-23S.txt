@@ -1,0 +1,65 @@
+2018-04-04 04:47:35	Input SN : G2SJ-C84-23S
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 2376.545 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 22.0 (s)
+
+
+
+SNR1 = 47
+
+SNR2 = 46
+
+SNR3 = 47
+
+SNR4 = 46
+
+SNR5 = 46
+
+SNR6 = 46
+
+SNR7 = 46
+
+*********************
+
+GPS Signal Test PASS! Use time = 25.600 sec.
+
+
+Total Time 00:00:47

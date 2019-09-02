@@ -1,0 +1,67 @@
+2018-04-15 01:27:18	Input SN : G3FC-F9U-877
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 8848.058 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 38.0 (s)
+
+
+
+SNR1 = 44
+
+SNR2 = 43
+
+SNR3 = 43
+
+SNR4 = 43
+
+SNR5 = 42
+
+SNR6 = 28
+
+SNR7 = 42
+
+SNR8 = 42
+
+*********************
+
+GPS Signal Test PASS! Use time = 41.600 sec.
+
+
+Total Time 00:01:19

@@ -1,0 +1,67 @@
+2018-04-21 10:39:16	Input SN : G3FP-8X2-4NV
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 284.623 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.600 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 23.0 (s)
+
+
+
+SNR1 = 42
+
+SNR2 = 42
+
+SNR3 = 42
+
+SNR4 = 42
+
+SNR5 = 43
+
+SNR6 = 43
+
+SNR7 = 42
+
+SNR8 = 43
+
+*********************
+
+GPS Signal Test PASS! Use time = 26.320 sec.
+
+
+Total Time 00:01:06

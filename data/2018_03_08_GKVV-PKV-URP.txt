@@ -1,0 +1,69 @@
+2018-03-08 19:48:59	Input SN : GKVV-PKV-URP
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 6669.012 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.580 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 48.0 (s)
+
+
+
+SNR1 = 28
+
+SNR2 = 29
+
+SNR3 = 31
+
+SNR4 = 28
+
+SNR5 = 32
+
+SNR6 = 35
+
+SNR7 = 35
+
+SNR8 = 28
+
+*********************
+
+GPS Signal Test PASS! Use time = 120.790 sec.
+
+
+Total Time 00:02:38

@@ -1,0 +1,67 @@
+2018-03-08 18:22:25	Input SN : GWAF-3C4-P9Z
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 1476.670 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 120.0 (s)
+
+
+
+SNR1 = 38
+
+SNR2 = 38
+
+SNR3 = 37
+
+SNR4 = 38
+
+SNR5 = 27
+
+SNR6 = 38
+
+SNR7 = 39
+
+SNR8 = 39
+
+*********************
+
+GPS Signal Test PASS! Use time = 120.790 sec.
+
+
+Total Time 00:02:36

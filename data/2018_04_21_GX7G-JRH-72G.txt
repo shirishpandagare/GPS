@@ -1,0 +1,67 @@
+2018-04-21 11:32:38	Input SN : GX7G-JRH-72G
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 615.111 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.600 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 37.0 (s)
+
+
+
+SNR1 = 41
+
+SNR2 = 41
+
+SNR3 = 41
+
+SNR4 = 41
+
+SNR5 = 42
+
+SNR6 = 42
+
+SNR7 = 41
+
+SNR8 = 42
+
+*********************
+
+GPS Signal Test PASS! Use time = 73.261 sec.
+
+
+Total Time 00:02:00

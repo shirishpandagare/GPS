@@ -1,0 +1,67 @@
+2018-03-08 19:05:53	Input SN : GRFJ-RG9-KY6
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 3935.567 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 119.0 (s)
+
+
+
+SNR1 = 34
+
+SNR2 = 34
+
+SNR3 = 34
+
+SNR4 = 34
+
+SNR5 = 31
+
+SNR6 = 38
+
+SNR7 = 39
+
+SNR8 = 30
+
+*********************
+
+GPS Signal Test PASS! Use time = 120.326 sec.
+
+
+Total Time 00:02:34

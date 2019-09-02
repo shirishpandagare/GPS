@@ -1,0 +1,59 @@
+2018-04-20 23:06:34	Input SN : GZPF-WXJ-W8U
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 419.511 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 35.0 (s)
+
+
+
+SNR1 = 44
+
+SNR2 = 44
+
+SNR3 = 44
+
+SNR4 = 44
+
+*********************
+
+GPS Signal Test PASS! Use time = 37.680 sec.
+
+
+Total Time 00:01:18

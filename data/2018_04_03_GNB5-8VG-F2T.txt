@@ -1,0 +1,67 @@
+2018-04-03 23:31:48	Input SN : GNB5-8VG-F2T
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 6665.899 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 35.0 (s)
+
+
+
+SNR1 = 44
+
+SNR2 = 45
+
+SNR3 = 45
+
+SNR4 = 45
+
+SNR5 = 44
+
+SNR6 = 45
+
+SNR7 = 45
+
+SNR8 = 46
+
+*********************
+
+GPS Signal Test PASS! Use time = 36.780 sec.
+
+
+Total Time 00:00:58

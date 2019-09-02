@@ -1,0 +1,67 @@
+2018-04-20 21:47:00	Input SN : GDE9-R9V-TJ6
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 4053.410 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 120.0 (s)
+
+
+
+SNR1 = 39
+
+SNR2 = 39
+
+SNR3 = 39
+
+SNR4 = 38
+
+SNR5 = 35
+
+SNR6 = 36
+
+SNR7 = 36
+
+SNR8 = 37
+
+*********************
+
+GPS Signal Test PASS! Use time = 120.840 sec.
+
+
+Total Time 00:02:37

@@ -1,0 +1,61 @@
+2018-04-21 10:28:32	Input SN : GVJ6-J3Y-BVM
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 17.816 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.580 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 34.0 (s)
+
+
+
+SNR5 = 46
+
+SNR6 = 46
+
+SNR7 = 46
+
+SNR8 = 46
+
+*********************
+
+GPS Signal Test PASS! Use time = 35.930 sec.
+
+
+Total Time 00:01:16

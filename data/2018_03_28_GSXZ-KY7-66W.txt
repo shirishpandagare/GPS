@@ -1,0 +1,67 @@
+2018-03-28 16:18:21	Input SN : GSXZ-KY7-66W
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 7094.477 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 120.0 (s)
+
+
+
+SNR1 = 27
+
+SNR2 = 39
+
+SNR3 = 39
+
+SNR4 = 27
+
+SNR5 = 39
+
+SNR6 = 39
+
+SNR7 = 39
+
+SNR8 = 29
+
+*********************
+
+GPS Signal Test PASS! Use time = 120.920 sec.
+
+
+Total Time 00:02:41

@@ -1,0 +1,69 @@
+2018-03-08 20:12:27	Input SN : GFXU-A2B-BH3
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 7943.262 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.580 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 42.0 (s)
+
+
+
+SNR1 = 37
+
+SNR2 = 37
+
+SNR3 = 36
+
+SNR4 = 37
+
+SNR5 = 37
+
+SNR6 = 31
+
+SNR7 = 31
+
+SNR8 = 37
+
+*********************
+
+GPS Signal Test PASS! Use time = 103.280 sec.
+
+
+Total Time 00:02:19

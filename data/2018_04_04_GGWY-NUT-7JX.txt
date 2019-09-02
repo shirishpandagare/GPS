@@ -1,0 +1,61 @@
+2018-04-04 07:23:24	Input SN : GGWY-NUT-7JX
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 7225.786 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.570 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 35.0 (s)
+
+
+
+SNR1 = 41
+
+SNR2 = 41
+
+SNR3 = 42
+
+SNR4 = 41
+
+*********************
+
+GPS Signal Test PASS! Use time = 37.770 sec.
+
+
+Total Time 00:01:00

@@ -1,0 +1,67 @@
+2018-04-20 16:17:46	Input SN : GRFZ-NYC-DEU
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 780.682 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 31.0 (s)
+
+
+
+SNR1 = 40
+
+SNR2 = 40
+
+SNR3 = 40
+
+SNR4 = 40
+
+SNR5 = 41
+
+SNR6 = 42
+
+SNR7 = 42
+
+SNR8 = 42
+
+*********************
+
+GPS Signal Test PASS! Use time = 32.550 sec.
+
+
+Total Time 00:01:11

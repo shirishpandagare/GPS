@@ -1,0 +1,67 @@
+2018-04-04 08:20:58	Input SN : GFKH-MN3-MDN
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 6992.787 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 37.0 (s)
+
+
+
+SNR1 = 47
+
+SNR2 = 46
+
+SNR3 = 47
+
+SNR4 = 47
+
+SNR5 = 46
+
+SNR6 = 46
+
+SNR7 = 28
+
+SNR8 = 46
+
+*********************
+
+GPS Signal Test PASS! Use time = 40.020 sec.
+
+
+Total Time 00:00:59

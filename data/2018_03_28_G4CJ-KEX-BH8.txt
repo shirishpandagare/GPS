@@ -1,0 +1,67 @@
+2018-03-28 16:29:58	Input SN : G4CJ-KEX-BH8
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 7256.198 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 45.0 (s)
+
+
+
+SNR1 = 40
+
+SNR2 = 40
+
+SNR3 = 29
+
+SNR4 = 40
+
+SNR5 = 40
+
+SNR6 = 35
+
+SNR7 = 35
+
+SNR8 = 40
+
+*********************
+
+GPS Signal Test PASS! Use time = 47.310 sec.
+
+
+Total Time 00:01:27

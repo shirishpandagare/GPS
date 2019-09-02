@@ -1,0 +1,67 @@
+2018-04-04 05:25:20	Input SN : GC6E-2TD-R35
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 1812.184 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.600 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 39.0 (s)
+
+
+
+SNR1 = 42
+
+SNR2 = 42
+
+SNR3 = 43
+
+SNR4 = 31
+
+SNR5 = 41
+
+SNR6 = 41
+
+SNR7 = 28
+
+SNR8 = 26
+
+*********************
+
+GPS Signal Test PASS! Use time = 41.790 sec.
+
+
+Total Time 00:00:59

@@ -1,0 +1,67 @@
+2018-04-04 07:56:00	Input SN : G7CR-N6H-27V
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 1071.229 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.600 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 27.0 (s)
+
+
+
+SNR1 = 41
+
+SNR2 = 41
+
+SNR3 = 41
+
+SNR4 = 41
+
+SNR5 = 42
+
+SNR6 = 42
+
+SNR7 = 42
+
+SNR8 = 41
+
+*********************
+
+GPS Signal Test PASS! Use time = 62.420 sec.
+
+
+Total Time 00:01:20

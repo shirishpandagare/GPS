@@ -1,0 +1,67 @@
+2018-04-15 03:21:35	Input SN : GNXC-FG2-2ZN
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 15710.499 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 35.0 (s)
+
+
+
+SNR1 = 44
+
+SNR2 = 44
+
+SNR3 = 44
+
+SNR4 = 44
+
+SNR5 = 43
+
+SNR6 = 43
+
+SNR7 = 43
+
+SNR8 = 42
+
+*********************
+
+GPS Signal Test PASS! Use time = 36.320 sec.
+
+
+Total Time 00:01:14

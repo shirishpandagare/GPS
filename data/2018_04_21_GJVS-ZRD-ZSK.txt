@@ -1,0 +1,59 @@
+2018-04-21 13:43:15	Input SN : GJVS-ZRD-ZSK
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 332.040 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 39.0 (s)
+
+
+
+SNR1 = 48
+
+SNR2 = 48
+
+SNR3 = 48
+
+SNR4 = 49
+
+*********************
+
+GPS Signal Test PASS! Use time = 42.590 sec.
+
+
+Total Time 00:01:19

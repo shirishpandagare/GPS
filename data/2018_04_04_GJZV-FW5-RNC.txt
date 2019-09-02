@@ -1,0 +1,67 @@
+2018-04-04 01:25:19	Input SN : GJZV-FW5-RNC
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 485.546 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 32.0 (s)
+
+
+
+SNR1 = 36
+
+SNR2 = 36
+
+SNR3 = 36
+
+SNR4 = 36
+
+SNR5 = 26
+
+SNR6 = 37
+
+SNR7 = 36
+
+SNR8 = 36
+
+*********************
+
+GPS Signal Test PASS! Use time = 34.660 sec.
+
+
+Total Time 00:00:53

@@ -1,0 +1,61 @@
+2018-04-04 03:50:38	Input SN : GZMN-HH2-XZ2
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 239.732 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.570 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 27.0 (s)
+
+
+
+SNR1 = 47
+
+SNR2 = 47
+
+SNR3 = 47
+
+SNR4 = 47
+
+*********************
+
+GPS Signal Test PASS! Use time = 30.720 sec.
+
+
+Total Time 00:00:52

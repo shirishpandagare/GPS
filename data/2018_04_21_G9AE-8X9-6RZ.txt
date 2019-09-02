@@ -1,0 +1,69 @@
+2018-04-21 01:45:19	Input SN : G9AE-8X9-6RZ
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 6233.250 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.570 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 31.0 (s)
+
+
+
+SNR1 = 42
+
+SNR2 = 42
+
+SNR3 = 42
+
+SNR4 = 42
+
+SNR5 = 39
+
+SNR6 = 39
+
+SNR7 = 40
+
+SNR8 = 39
+
+*********************
+
+GPS Signal Test PASS! Use time = 66.010 sec.
+
+
+Total Time 00:01:47

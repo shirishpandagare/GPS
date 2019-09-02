@@ -1,0 +1,67 @@
+2018-04-04 00:03:04	Input SN : GKZY-PRG-AY5
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 1394.101 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 36.0 (s)
+
+
+
+SNR1 = 45
+
+SNR2 = 45
+
+SNR3 = 45
+
+SNR4 = 45
+
+SNR5 = 28
+
+SNR6 = 45
+
+SNR7 = 45
+
+SNR8 = 45
+
+*********************
+
+GPS Signal Test PASS! Use time = 38.311 sec.
+
+
+Total Time 00:00:59

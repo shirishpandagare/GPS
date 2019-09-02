@@ -1,0 +1,67 @@
+2018-04-15 04:42:17	Input SN : GRN9-243-ABT
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 20552.647 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 35.0 (s)
+
+
+
+SNR1 = 41
+
+SNR2 = 41
+
+SNR3 = 41
+
+SNR4 = 42
+
+SNR5 = 41
+
+SNR6 = 41
+
+SNR7 = 42
+
+SNR8 = 41
+
+*********************
+
+GPS Signal Test PASS! Use time = 37.580 sec.
+
+
+Total Time 00:01:14

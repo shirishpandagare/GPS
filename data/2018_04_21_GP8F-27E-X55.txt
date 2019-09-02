@@ -1,0 +1,69 @@
+2018-04-21 08:53:46	Input SN : GP8F-27E-X55
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 1070.561 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.580 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 34.0 (s)
+
+
+
+SNR1 = 40
+
+SNR2 = 30
+
+SNR3 = 40
+
+SNR4 = 35
+
+SNR5 = 42
+
+SNR6 = 42
+
+SNR7 = 42
+
+SNR8 = 42
+
+*********************
+
+GPS Signal Test PASS! Use time = 94.200 sec.
+
+
+Total Time 00:02:17

@@ -1,0 +1,69 @@
+2018-04-20 16:36:18	Input SN : GJAT-YRR-Z8B
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 2025.858 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.560 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 35.0 (s)
+
+
+
+SNR1 = 32
+
+SNR2 = 43
+
+SNR3 = 43
+
+SNR4 = 43
+
+SNR5 = 43
+
+SNR6 = 42
+
+SNR7 = 43
+
+SNR8 = 41
+
+*********************
+
+GPS Signal Test PASS! Use time = 68.331 sec.
+
+
+Total Time 00:01:51

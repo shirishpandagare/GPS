@@ -1,0 +1,69 @@
+2018-04-20 17:09:13	Input SN : G636-WWS-TKD
+
+
+
+
+=====================
+
+GPS Module Detect....
+
+=====================
+
+Detect OK! Use time = 1.730 sec.
+
+
+
+
+
+=====================
+
+Enable GPS Module....
+
+=====================
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.590 sec.
+
+
+
+
+
+=====================
+
+GPS Signal Test....
+
+=====================
+
+TTFF = 29.0 (s)
+
+
+
+SNR1 = 36
+
+SNR2 = 36
+
+SNR3 = 37
+
+SNR4 = 36
+
+SNR5 = 29
+
+SNR6 = 36
+
+SNR7 = 36
+
+SNR8 = 36
+
+*********************
+
+GPS Signal Test PASS! Use time = 29.770 sec.
+
+
+Total Time 00:00:50

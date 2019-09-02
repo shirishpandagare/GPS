@@ -1,0 +1,69 @@
+2018-03-08 20:01:04	Input SN : GHN4-J76-7WX
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 7242.092 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.230 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 120.0 (s)
+
+
+
+SNR1 = 31
+
+SNR2 = 32
+
+SNR3 = 31
+
+SNR4 = 30
+
+SNR5 = 32
+
+SNR6 = 28
+
+SNR7 = 29
+
+SNR8 = 32
+
+*********************
+
+GPS Signal Test PASS! Use time = 120.382 sec.
+
+
+Total Time 00:02:39

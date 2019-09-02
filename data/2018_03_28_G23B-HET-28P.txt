@@ -1,0 +1,69 @@
+2018-03-28 14:33:22	Input SN : G23B-HET-28P
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 888.942 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.550 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 27.0 (s)
+
+
+
+SNR1 = 30
+
+SNR2 = 33
+
+SNR3 = 33
+
+SNR4 = 30
+
+SNR5 = 40
+
+SNR6 = 29
+
+SNR7 = 40
+
+SNR8 = 40
+
+*********************
+
+GPS Signal Test PASS! Use time = 27.800 sec.
+
+
+Total Time 00:01:07

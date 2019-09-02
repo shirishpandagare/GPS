@@ -1,0 +1,69 @@
+2018-03-08 20:36:15	Input SN : GES6-4KZ-C93
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 9578.204 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.580 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 28.0 (s)
+
+
+
+SNR1 = 36
+
+SNR2 = 28
+
+SNR3 = 36
+
+SNR4 = 27
+
+SNR5 = 29
+
+SNR6 = 39
+
+SNR7 = 31
+
+SNR8 = 34
+
+*********************
+
+GPS Signal Test PASS! Use time = 46.380 sec.
+
+
+Total Time 00:01:25

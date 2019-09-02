@@ -1,0 +1,69 @@
+2018-04-04 06:14:09	Input SN : GKJS-JTD-SJJ
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 7664.554 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.570 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 32.0 (s)
+
+
+
+SNR1 = 47
+
+SNR2 = 47
+
+SNR3 = 47
+
+SNR4 = 46
+
+SNR5 = 47
+
+SNR6 = 46
+
+SNR7 = 29
+
+SNR8 = 47
+
+*********************
+
+GPS Signal Test PASS! Use time = 35.660 sec.
+
+
+Total Time 00:00:57

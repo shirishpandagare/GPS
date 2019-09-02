@@ -1,0 +1,67 @@
+2018-04-15 02:22:11	Input SN : GNGC-CCY-TNV
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 12144.633 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 39.0 (s)
+
+
+
+SNR1 = 44
+
+SNR2 = 45
+
+SNR3 = 44
+
+SNR4 = 44
+
+SNR5 = 40
+
+SNR6 = 29
+
+SNR7 = 41
+
+SNR8 = 28
+
+*********************
+
+GPS Signal Test PASS! Use time = 40.980 sec.
+
+
+Total Time 00:01:16

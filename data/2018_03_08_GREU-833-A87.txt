@@ -1,0 +1,67 @@
+2018-03-08 19:06:39	Input SN : GREU-833-A87
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 4130.323 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 120.0 (s)
+
+
+
+SNR1 = 28
+
+SNR2 = 28
+
+SNR3 = 26
+
+SNR4 = 30
+
+SNR5 = 37
+
+SNR6 = 37
+
+SNR7 = 37
+
+SNR8 = 31
+
+*********************
+
+GPS Signal Test PASS! Use time = 120.611 sec.
+
+
+Total Time 00:02:37

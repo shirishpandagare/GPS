@@ -1,0 +1,67 @@
+2018-03-08 18:47:46	Input SN : GTZP-5TG-Z3T
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 3069.756 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 47.0 (s)
+
+
+
+SNR1 = 28
+
+SNR2 = 38
+
+SNR3 = 31
+
+SNR4 = 38
+
+SNR5 = 28
+
+SNR6 = 39
+
+SNR7 = 30
+
+SNR8 = 39
+
+*********************
+
+GPS Signal Test PASS! Use time = 48.450 sec.
+
+
+Total Time 00:01:24

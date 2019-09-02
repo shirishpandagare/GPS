@@ -1,0 +1,67 @@
+2018-03-08 18:43:49	Input SN : GTT5-JXW-VBJ
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 2673.309 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 45.0 (s)
+
+
+
+SNR1 = 34
+
+SNR2 = 34
+
+SNR3 = 34
+
+SNR4 = 34
+
+SNR5 = 29
+
+SNR6 = 28
+
+SNR7 = 31
+
+SNR8 = 30
+
+*********************
+
+GPS Signal Test PASS! Use time = 48.707 sec.
+
+
+Total Time 00:01:32

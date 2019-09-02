@@ -1,0 +1,67 @@
+2018-04-04 04:29:28	Input SN : GU2N-D3Z-7H8
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 1276.725 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.580 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 34.0 (s)
+
+
+
+SNR1 = 47
+
+SNR2 = 47
+
+SNR3 = 47
+
+SNR4 = 47
+
+SNR5 = 46
+
+SNR6 = 46
+
+SNR7 = 46
+
+*********************
+
+GPS Signal Test PASS! Use time = 35.460 sec.
+
+
+Total Time 00:00:59

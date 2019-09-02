@@ -1,0 +1,59 @@
+2018-05-02 17:51:51	Input SN : GFHU-H5D-BSN
+
+
+
+
+=====================
+
+GPS Module Detect....
+
+=====================
+
+Detect OK! Use time = 1.748 sec.
+
+
+
+
+
+=====================
+
+Enable GPS Module....
+
+=====================
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+=====================
+
+GPS Signal Test....
+
+=====================
+
+TTFF = 2.0 (s)
+
+
+
+SNR5 = 45
+
+SNR6 = 45
+
+SNR7 = 45
+
+SNR8 = 45
+
+*********************
+
+GPS Signal Test PASS! Use time = 6.170 sec.
+
+
+Total Time 00:00:26

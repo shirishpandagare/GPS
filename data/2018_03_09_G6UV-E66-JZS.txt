@@ -1,0 +1,67 @@
+2018-03-09 10:00:17	Input SN : G6UV-E66-JZS
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 3184.882 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 36.0 (s)
+
+
+
+SNR1 = 41
+
+SNR2 = 41
+
+SNR3 = 29
+
+SNR4 = 41
+
+SNR5 = 40
+
+SNR6 = 41
+
+SNR7 = 41
+
+SNR8 = 29
+
+*********************
+
+GPS Signal Test PASS! Use time = 44.350 sec.
+
+
+Total Time 00:01:20

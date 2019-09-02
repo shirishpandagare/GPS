@@ -1,0 +1,67 @@
+2018-04-14 23:45:38	Input SN : GTT2-39K-DM4
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 2753.538 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 35.0 (s)
+
+
+
+SNR1 = 44
+
+SNR2 = 45
+
+SNR3 = 45
+
+SNR4 = 45
+
+SNR5 = 30
+
+SNR6 = 43
+
+SNR7 = 43
+
+SNR8 = 29
+
+*********************
+
+GPS Signal Test PASS! Use time = 37.390 sec.
+
+
+Total Time 00:01:14

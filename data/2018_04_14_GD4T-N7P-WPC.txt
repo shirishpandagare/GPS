@@ -1,0 +1,67 @@
+2018-04-14 16:33:06	Input SN : GD4T-N7P-WPC
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 1797.398 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 37.0 (s)
+
+
+
+SNR1 = 48
+
+SNR2 = 29
+
+SNR3 = 47
+
+SNR4 = 47
+
+SNR5 = 47
+
+SNR6 = 47
+
+SNR7 = 47
+
+SNR8 = 47
+
+*********************
+
+GPS Signal Test PASS! Use time = 39.340 sec.
+
+
+Total Time 00:01:17

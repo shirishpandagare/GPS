@@ -1,0 +1,69 @@
+2018-03-09 10:39:59	Input SN : G2AY-TSE-YKY
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 1275.162 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.580 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 34.0 (s)
+
+
+
+SNR1 = 38
+
+SNR2 = 38
+
+SNR3 = 29
+
+SNR4 = 38
+
+SNR5 = 36
+
+SNR6 = 37
+
+SNR7 = 36
+
+SNR8 = 28
+
+*********************
+
+GPS Signal Test PASS! Use time = 96.230 sec.
+
+
+Total Time 00:02:13

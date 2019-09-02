@@ -1,0 +1,69 @@
+2018-04-04 05:02:07	Input SN : GEN5-2HU-G7A
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 1282.707 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.580 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 38.0 (s)
+
+
+
+SNR1 = 47
+
+SNR2 = 47
+
+SNR3 = 48
+
+SNR4 = 47
+
+SNR5 = 28
+
+SNR6 = 43
+
+SNR7 = 30
+
+SNR8 = 44
+
+*********************
+
+GPS Signal Test PASS! Use time = 40.420 sec.
+
+
+Total Time 00:01:00

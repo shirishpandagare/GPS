@@ -1,0 +1,67 @@
+2018-03-09 10:37:27	Input SN : G2ZY-YKF-Z6W
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 1121.027 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 39.0 (s)
+
+
+
+SNR1 = 37
+
+SNR2 = 37
+
+SNR3 = 28
+
+SNR4 = 36
+
+SNR5 = 36
+
+SNR6 = 37
+
+SNR7 = 36
+
+SNR8 = 28
+
+*********************
+
+GPS Signal Test PASS! Use time = 97.610 sec.
+
+
+Total Time 00:02:15

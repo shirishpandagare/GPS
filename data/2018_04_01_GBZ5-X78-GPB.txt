@@ -1,0 +1,67 @@
+2018-04-01 10:47:21	Input SN : GBZ5-X78-GPB
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 891.360 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 48.0 (s)
+
+
+
+SNR1 = 38
+
+SNR2 = 38
+
+SNR3 = 38
+
+SNR4 = 38
+
+SNR5 = 39
+
+SNR6 = 39
+
+SNR7 = 40
+
+SNR8 = 39
+
+*********************
+
+GPS Signal Test PASS! Use time = 102.010 sec.
+
+
+Total Time 00:02:13

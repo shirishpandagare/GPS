@@ -1,0 +1,67 @@
+2018-03-08 17:22:16	Input SN : GWYS-N3U-ZNA
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 259.882 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 31.0 (s)
+
+
+
+SNR1 = 36
+
+SNR2 = 36
+
+SNR3 = 36
+
+SNR4 = 36
+
+SNR5 = 40
+
+SNR6 = 41
+
+SNR7 = 40
+
+SNR8 = 41
+
+*********************
+
+GPS Signal Test PASS! Use time = 31.970 sec.
+
+
+Total Time 00:01:07

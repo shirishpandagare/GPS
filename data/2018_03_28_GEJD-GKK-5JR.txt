@@ -1,0 +1,67 @@
+2018-03-28 15:36:03	Input SN : GEJD-GKK-5JR
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 4620.256 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 41.0 (s)
+
+
+
+SNR1 = 30
+
+SNR2 = 33
+
+SNR3 = 33
+
+SNR4 = 30
+
+SNR5 = 38
+
+SNR6 = 28
+
+SNR7 = 38
+
+SNR8 = 38
+
+*********************
+
+GPS Signal Test PASS! Use time = 57.130 sec.
+
+
+Total Time 00:01:37

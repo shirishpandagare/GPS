@@ -1,0 +1,67 @@
+2018-04-04 01:22:59	Input SN : G6UU-SZR-A8V
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 5744.444 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.600 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 39.0 (s)
+
+
+
+SNR1 = 28
+
+SNR2 = 39
+
+SNR3 = 39
+
+SNR4 = 39
+
+SNR5 = 30
+
+SNR6 = 41
+
+SNR7 = 41
+
+SNR8 = 41
+
+*********************
+
+GPS Signal Test PASS! Use time = 50.490 sec.
+
+
+Total Time 00:01:07

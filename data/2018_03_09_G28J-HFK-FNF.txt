@@ -1,0 +1,69 @@
+2018-03-09 09:54:37	Input SN : G28J-HFK-FNF
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 2796.956 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.580 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 33.0 (s)
+
+
+
+SNR1 = 41
+
+SNR2 = 41
+
+SNR3 = 29
+
+SNR4 = 41
+
+SNR5 = 41
+
+SNR6 = 30
+
+SNR7 = 41
+
+SNR8 = 29
+
+*********************
+
+GPS Signal Test PASS! Use time = 92.141 sec.
+
+
+Total Time 00:02:07

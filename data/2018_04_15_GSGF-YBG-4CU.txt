@@ -1,0 +1,67 @@
+2018-04-15 01:54:05	Input SN : GSGF-YBG-4CU
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 10448.710 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 29.0 (s)
+
+
+
+SNR1 = 42
+
+SNR2 = 41
+
+SNR3 = 41
+
+SNR4 = 31
+
+SNR5 = 40
+
+SNR6 = 29
+
+SNR7 = 41
+
+SNR8 = 28
+
+*********************
+
+GPS Signal Test PASS! Use time = 49.400 sec.
+
+
+Total Time 00:01:26

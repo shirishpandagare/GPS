@@ -1,0 +1,67 @@
+2018-03-08 18:28:29	Input SN : GUHA-25D-VH9
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 1927.184 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 33.0 (s)
+
+
+
+SNR1 = 31
+
+SNR2 = 30
+
+SNR3 = 38
+
+SNR4 = 38
+
+SNR5 = 39
+
+SNR6 = 38
+
+SNR7 = 39
+
+SNR8 = 28
+
+*********************
+
+GPS Signal Test PASS! Use time = 35.690 sec.
+
+
+Total Time 00:01:09

@@ -1,0 +1,67 @@
+2018-04-04 06:25:07	Input SN : GY4S-THD-MTG
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 6266.650 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 36.0 (s)
+
+
+
+SNR1 = 46
+
+SNR2 = 45
+
+SNR3 = 45
+
+SNR4 = 45
+
+SNR5 = 45
+
+SNR6 = 34
+
+SNR7 = 45
+
+SNR8 = 35
+
+*********************
+
+GPS Signal Test PASS! Use time = 39.506 sec.
+
+
+Total Time 00:00:58

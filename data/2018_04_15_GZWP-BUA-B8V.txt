@@ -1,0 +1,67 @@
+2018-04-15 04:59:43	Input SN : GZWP-BUA-B8V
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 21596.330 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 36.0 (s)
+
+
+
+SNR1 = 44
+
+SNR2 = 44
+
+SNR3 = 44
+
+SNR4 = 43
+
+SNR5 = 43
+
+SNR6 = 42
+
+SNR7 = 43
+
+SNR8 = 42
+
+*********************
+
+GPS Signal Test PASS! Use time = 39.870 sec.
+
+
+Total Time 00:01:16

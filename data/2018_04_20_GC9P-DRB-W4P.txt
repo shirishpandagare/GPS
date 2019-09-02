@@ -1,0 +1,65 @@
+2018-04-20 16:45:18	Input SN : GC9P-DRB-W4P
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 658.215 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 36.0 (s)
+
+
+
+SNR1 = 47
+
+SNR2 = 47
+
+SNR3 = 47
+
+SNR4 = 47
+
+SNR5 = 47
+
+SNR6 = 47
+
+SNR7 = 47
+
+*********************
+
+GPS Signal Test PASS! Use time = 38.231 sec.
+
+
+Total Time 00:01:19

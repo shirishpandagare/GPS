@@ -1,0 +1,67 @@
+2018-04-21 01:41:03	Input SN : GJ7U-YGM-KZ8
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 5993.061 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.600 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 52.0 (s)
+
+
+
+SNR1 = 39
+
+SNR2 = 39
+
+SNR3 = 39
+
+SNR4 = 38
+
+SNR5 = 38
+
+SNR6 = 39
+
+SNR7 = 38
+
+SNR8 = 41
+
+*********************
+
+GPS Signal Test PASS! Use time = 53.170 sec.
+
+
+Total Time 00:01:32

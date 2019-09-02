@@ -1,0 +1,63 @@
+2018-08-01 16:12:32	Input SN : G6TX-Y4C-ZZE
+
+
+
+
+=====================
+
+GPS Module Detect....
+
+=====================
+
+Detect OK! Use time = 1.692 sec.
+
+
+
+
+
+=====================
+
+Enable GPS Module....
+
+=====================
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.600 sec.
+
+
+
+
+
+=====================
+
+GPS Signal Test....
+
+=====================
+
+TTFF = 1.0 (s)
+
+
+
+SNR1 = 28
+
+SNR2 = 44
+
+SNR3 = 44
+
+SNR4 = 44
+
+SNR5 = 44
+
+SNR6 = 44
+
+*********************
+
+GPS Signal Test PASS! Use time = 16.560 sec.
+
+
+Total Time 00:00:33

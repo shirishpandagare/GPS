@@ -1,0 +1,67 @@
+2018-03-09 11:12:02	Input SN : GWDR-T6A-E2D
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 3266.587 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 24.0 (s)
+
+
+
+SNR1 = 37
+
+SNR2 = 37
+
+SNR3 = 26
+
+SNR4 = 37
+
+SNR5 = 36
+
+SNR6 = 37
+
+SNR7 = 36
+
+SNR8 = 28
+
+*********************
+
+GPS Signal Test PASS! Use time = 27.550 sec.
+
+
+Total Time 00:01:05

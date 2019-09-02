@@ -1,0 +1,67 @@
+2018-03-08 19:26:54	Input SN : GP76-Z7K-E3C
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 5345.444 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 120.0 (s)
+
+
+
+SNR1 = 31
+
+SNR2 = 32
+
+SNR3 = 26
+
+SNR4 = 33
+
+SNR5 = 36
+
+SNR6 = 30
+
+SNR7 = 35
+
+SNR8 = 35
+
+*********************
+
+GPS Signal Test PASS! Use time = 120.820 sec.
+
+
+Total Time 00:02:36

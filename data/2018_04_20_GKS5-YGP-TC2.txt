@@ -1,0 +1,69 @@
+2018-04-20 22:20:51	Input SN : GKS5-YGP-TC2
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 6082.038 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.570 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 75.0 (s)
+
+
+
+SNR1 = 39
+
+SNR2 = 39
+
+SNR3 = 39
+
+SNR4 = 39
+
+SNR5 = 37
+
+SNR6 = 36
+
+SNR7 = 37
+
+SNR8 = 37
+
+*********************
+
+GPS Signal Test PASS! Use time = 120.210 sec.
+
+
+Total Time 00:02:40

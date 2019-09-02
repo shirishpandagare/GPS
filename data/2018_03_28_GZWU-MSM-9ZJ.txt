@@ -1,0 +1,69 @@
+2018-03-28 15:50:05	Input SN : GZWU-MSM-9ZJ
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 4870.266 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.580 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 33.0 (s)
+
+
+
+SNR1 = 43
+
+SNR2 = 43
+
+SNR3 = 43
+
+SNR4 = 43
+
+SNR5 = 43
+
+SNR6 = 43
+
+SNR7 = 43
+
+SNR8 = 43
+
+*********************
+
+GPS Signal Test PASS! Use time = 36.410 sec.
+
+
+Total Time 00:01:21

@@ -1,0 +1,69 @@
+2018-04-21 13:20:11	Input SN : G47X-5RM-KNB
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 1272.424 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.560 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 26.0 (s)
+
+
+
+SNR1 = 43
+
+SNR2 = 42
+
+SNR3 = 42
+
+SNR4 = 43
+
+SNR5 = 42
+
+SNR6 = 31
+
+SNR7 = 42
+
+SNR8 = 42
+
+*********************
+
+GPS Signal Test PASS! Use time = 29.510 sec.
+
+
+Total Time 00:01:11

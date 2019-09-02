@@ -1,0 +1,67 @@
+2018-03-28 15:36:05	Input SN : GGJW-UUJ-CZ9
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 4027.531 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 41.0 (s)
+
+
+
+SNR1 = 40
+
+SNR2 = 30
+
+SNR3 = 40
+
+SNR4 = 40
+
+SNR5 = 38
+
+SNR6 = 30
+
+SNR7 = 38
+
+SNR8 = 38
+
+*********************
+
+GPS Signal Test PASS! Use time = 43.610 sec.
+
+
+Total Time 00:01:24

@@ -1,0 +1,67 @@
+2018-04-04 07:55:49	Input SN : GHVF-Y3T-8AP
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 5451.997 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 28.0 (s)
+
+
+
+SNR1 = 47
+
+SNR2 = 47
+
+SNR3 = 48
+
+SNR4 = 48
+
+SNR5 = 46
+
+SNR6 = 46
+
+SNR7 = 28
+
+SNR8 = 46
+
+*********************
+
+GPS Signal Test PASS! Use time = 71.780 sec.
+
+
+Total Time 00:01:30

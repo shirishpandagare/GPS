@@ -1,0 +1,69 @@
+2018-04-04 12:24:22	Input SN : GK2U-998-B72
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 973.040 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.580 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 120.0 (s)
+
+
+
+SNR1 = 34
+
+SNR2 = 33
+
+SNR3 = 34
+
+SNR4 = 34
+
+SNR5 = 33
+
+SNR6 = 33
+
+SNR7 = 34
+
+SNR8 = 33
+
+*********************
+
+GPS Signal Test PASS! Use time = 120.180 sec.
+
+
+Total Time 00:02:43

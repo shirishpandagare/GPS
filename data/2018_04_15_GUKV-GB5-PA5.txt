@@ -1,0 +1,67 @@
+2018-04-15 08:42:48	Input SN : GUKV-GB5-PA5
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 520.872 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 29.0 (s)
+
+
+
+SNR1 = 48
+
+SNR2 = 47
+
+SNR3 = 48
+
+SNR4 = 48
+
+SNR5 = 45
+
+SNR6 = 46
+
+SNR7 = 45
+
+SNR8 = 45
+
+*********************
+
+GPS Signal Test PASS! Use time = 32.650 sec.
+
+
+Total Time 00:01:08

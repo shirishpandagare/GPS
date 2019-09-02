@@ -1,0 +1,67 @@
+2018-03-08 19:50:27	Input SN : GJHZ-K3K-M29
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 6604.355 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 119.0 (s)
+
+
+
+SNR1 = 32
+
+SNR2 = 30
+
+SNR3 = 31
+
+SNR4 = 36
+
+SNR5 = 38
+
+SNR6 = 37
+
+SNR7 = 30
+
+SNR8 = 38
+
+*********************
+
+GPS Signal Test PASS! Use time = 120.174 sec.
+
+
+Total Time 00:02:39

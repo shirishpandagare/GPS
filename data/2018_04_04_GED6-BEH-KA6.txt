@@ -1,0 +1,67 @@
+2018-04-04 05:44:27	Input SN : GED6-BEH-KA6
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 5881.478 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 37.0 (s)
+
+
+
+SNR1 = 28
+
+SNR2 = 28
+
+SNR3 = 45
+
+SNR4 = 28
+
+SNR5 = 48
+
+SNR6 = 31
+
+SNR7 = 33
+
+SNR8 = 47
+
+*********************
+
+GPS Signal Test PASS! Use time = 39.670 sec.
+
+
+Total Time 00:00:58

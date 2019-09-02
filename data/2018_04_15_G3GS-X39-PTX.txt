@@ -1,0 +1,69 @@
+2018-04-15 09:03:48	Input SN : G3GS-X39-PTX
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 1775.804 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.580 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 33.0 (s)
+
+
+
+SNR1 = 48
+
+SNR2 = 47
+
+SNR3 = 47
+
+SNR4 = 48
+
+SNR5 = 48
+
+SNR6 = 48
+
+SNR7 = 48
+
+SNR8 = 47
+
+*********************
+
+GPS Signal Test PASS! Use time = 36.190 sec.
+
+
+Total Time 00:01:14

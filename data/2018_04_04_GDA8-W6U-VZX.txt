@@ -1,0 +1,65 @@
+2018-04-04 02:03:27	Input SN : GDA8-W6U-VZX
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 896.687 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.600 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 31.0 (s)
+
+
+
+SNR1 = 44
+
+SNR2 = 45
+
+SNR3 = 45
+
+SNR4 = 44
+
+SNR5 = 45
+
+SNR6 = 44
+
+SNR7 = 45
+
+*********************
+
+GPS Signal Test PASS! Use time = 34.590 sec.
+
+
+Total Time 00:00:53

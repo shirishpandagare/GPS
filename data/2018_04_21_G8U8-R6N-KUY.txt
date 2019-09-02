@@ -1,0 +1,69 @@
+2018-04-21 13:16:30	Input SN : G8U8-R6N-KUY
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 10013.837 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.580 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 119.0 (s)
+
+
+
+SNR1 = 48
+
+SNR2 = 47
+
+SNR3 = 47
+
+SNR4 = 47
+
+SNR5 = 27
+
+SNR6 = 48
+
+SNR7 = 48
+
+SNR8 = 48
+
+*********************
+
+GPS Signal Test PASS! Use time = 120.092 sec.
+
+
+Total Time 00:02:37

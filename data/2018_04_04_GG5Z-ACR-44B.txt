@@ -1,0 +1,67 @@
+2018-04-04 00:57:21	Input SN : GG5Z-ACR-44B
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 4216.597 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.600 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 37.0 (s)
+
+
+
+SNR1 = 44
+
+SNR2 = 44
+
+SNR3 = 44
+
+SNR4 = 29
+
+SNR5 = 43
+
+SNR6 = 43
+
+SNR7 = 43
+
+SNR8 = 43
+
+*********************
+
+GPS Signal Test PASS! Use time = 40.320 sec.
+
+
+Total Time 00:00:58

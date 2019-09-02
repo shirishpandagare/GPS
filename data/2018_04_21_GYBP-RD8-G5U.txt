@@ -1,0 +1,67 @@
+2018-04-21 04:59:21	Input SN : GYBP-RD8-G5U
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 4106.428 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.600 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 48.0 (s)
+
+
+
+SNR1 = 39
+
+SNR2 = 40
+
+SNR3 = 40
+
+SNR4 = 39
+
+SNR5 = 40
+
+SNR6 = 40
+
+SNR7 = 39
+
+SNR8 = 40
+
+*********************
+
+GPS Signal Test PASS! Use time = 55.610 sec.
+
+
+Total Time 00:01:34

@@ -1,0 +1,69 @@
+2018-04-21 08:38:53	Input SN : GSJY-5UC-ZNK
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 239.194 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.580 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 26.0 (s)
+
+
+
+SNR1 = 41
+
+SNR2 = 35
+
+SNR3 = 41
+
+SNR4 = 35
+
+SNR5 = 41
+
+SNR6 = 41
+
+SNR7 = 29
+
+SNR8 = 41
+
+*********************
+
+GPS Signal Test PASS! Use time = 35.010 sec.
+
+
+Total Time 00:01:17

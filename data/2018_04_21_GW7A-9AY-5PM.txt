@@ -1,0 +1,67 @@
+2018-04-21 02:53:36	Input SN : GW7A-9AY-5PM
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 6168.098 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 35.0 (s)
+
+
+
+SNR1 = 44
+
+SNR2 = 45
+
+SNR3 = 45
+
+SNR4 = 44
+
+SNR5 = 44
+
+SNR6 = 45
+
+SNR7 = 45
+
+SNR8 = 44
+
+*********************
+
+GPS Signal Test PASS! Use time = 38.660 sec.
+
+
+Total Time 00:01:18

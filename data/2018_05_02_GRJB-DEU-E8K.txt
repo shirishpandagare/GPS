@@ -1,0 +1,67 @@
+2018-05-02 17:53:25	Input SN : GRJB-DEU-E8K
+
+
+
+
+=====================
+
+GPS Module Detect....
+
+=====================
+
+Detect OK! Use time = 1.652 sec.
+
+
+
+
+
+=====================
+
+Enable GPS Module....
+
+=====================
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.560 sec.
+
+
+
+
+
+=====================
+
+GPS Signal Test....
+
+=====================
+
+TTFF = 47.0 (s)
+
+
+
+SNR1 = 43
+
+SNR2 = 43
+
+SNR3 = 44
+
+SNR4 = 43
+
+SNR5 = 43
+
+SNR6 = 43
+
+SNR7 = 43
+
+*********************
+
+GPS Signal Test PASS! Use time = 54.377 sec.
+
+
+Total Time 00:01:15

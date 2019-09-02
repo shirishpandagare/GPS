@@ -1,0 +1,69 @@
+2018-03-09 10:02:11	Input SN : G6PP-SWY-6N7
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 3311.345 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.580 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 27.0 (s)
+
+
+
+SNR1 = 42
+
+SNR2 = 42
+
+SNR3 = 42
+
+SNR4 = 42
+
+SNR5 = 42
+
+SNR6 = 42
+
+SNR7 = 29
+
+SNR8 = 42
+
+*********************
+
+GPS Signal Test PASS! Use time = 30.660 sec.
+
+
+Total Time 00:01:07

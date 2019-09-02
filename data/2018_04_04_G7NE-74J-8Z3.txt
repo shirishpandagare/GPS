@@ -1,0 +1,67 @@
+2018-04-04 11:26:32	Input SN : G7NE-74J-8Z3
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 2491.521 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.600 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 42.0 (s)
+
+
+
+SNR1 = 40
+
+SNR2 = 40
+
+SNR3 = 40
+
+SNR4 = 40
+
+SNR5 = 33
+
+SNR6 = 33
+
+SNR7 = 26
+
+SNR8 = 33
+
+*********************
+
+GPS Signal Test PASS! Use time = 43.440 sec.
+
+
+Total Time 00:01:18

@@ -1,0 +1,67 @@
+2018-04-04 02:37:55	Input SN : GAMU-7TC-674
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 2064.806 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 35.0 (s)
+
+
+
+SNR1 = 42
+
+SNR2 = 41
+
+SNR3 = 42
+
+SNR4 = 42
+
+SNR5 = 42
+
+SNR6 = 42
+
+SNR7 = 41
+
+SNR8 = 44
+
+*********************
+
+GPS Signal Test PASS! Use time = 38.850 sec.
+
+
+Total Time 00:00:57

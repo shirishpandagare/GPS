@@ -1,0 +1,67 @@
+2018-04-20 09:34:16	Input SN : GRRT-2TD-HFV
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 268.798 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 35.0 (s)
+
+
+
+SNR1 = 39
+
+SNR2 = 39
+
+SNR3 = 39
+
+SNR4 = 38
+
+SNR5 = 38
+
+SNR6 = 39
+
+SNR7 = 39
+
+SNR8 = 39
+
+*********************
+
+GPS Signal Test PASS! Use time = 37.080 sec.
+
+
+Total Time 00:01:14

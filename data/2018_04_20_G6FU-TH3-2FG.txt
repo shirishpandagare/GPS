@@ -1,0 +1,69 @@
+2018-04-20 23:11:46	Input SN : G6FU-TH3-2FG
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 944.289 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.560 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 34.0 (s)
+
+
+
+SNR1 = 38
+
+SNR2 = 39
+
+SNR3 = 39
+
+SNR4 = 39
+
+SNR5 = 38
+
+SNR6 = 39
+
+SNR7 = 39
+
+SNR8 = 38
+
+*********************
+
+GPS Signal Test PASS! Use time = 37.540 sec.
+
+
+Total Time 00:01:18

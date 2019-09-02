@@ -1,0 +1,67 @@
+2018-04-04 02:04:23	Input SN : GKWV-XBN-A8M
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 3536.618 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 34.0 (s)
+
+
+
+SNR1 = 44
+
+SNR2 = 45
+
+SNR3 = 45
+
+SNR4 = 45
+
+SNR5 = 45
+
+SNR6 = 44
+
+SNR7 = 44
+
+SNR8 = 41
+
+*********************
+
+GPS Signal Test PASS! Use time = 37.971 sec.
+
+
+Total Time 00:00:59

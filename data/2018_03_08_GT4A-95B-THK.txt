@@ -1,0 +1,67 @@
+2018-03-08 18:59:37	Input SN : GT4A-95B-THK
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 3557.201 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.650 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 120.0 (s)
+
+
+
+SNR1 = 34
+
+SNR2 = 34
+
+SNR3 = 34
+
+SNR4 = 34
+
+SNR5 = 31
+
+SNR6 = 38
+
+SNR7 = 39
+
+SNR8 = 30
+
+*********************
+
+GPS Signal Test PASS! Use time = 120.722 sec.
+
+
+Total Time 00:02:36

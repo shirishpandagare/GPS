@@ -1,0 +1,67 @@
+2018-04-20 16:16:23	Input SN : G49K-D3M-DHS
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 866.267 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.600 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 28.0 (s)
+
+
+
+SNR1 = 45
+
+SNR2 = 44
+
+SNR3 = 44
+
+SNR4 = 44
+
+SNR5 = 44
+
+SNR6 = 44
+
+SNR7 = 44
+
+SNR8 = 42
+
+*********************
+
+GPS Signal Test PASS! Use time = 37.270 sec.
+
+
+Total Time 00:01:16

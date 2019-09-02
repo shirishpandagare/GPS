@@ -1,0 +1,69 @@
+2018-04-04 08:01:30	Input SN : GFME-7RG-DUE
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 5824.518 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.570 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 34.0 (s)
+
+
+
+SNR1 = 47
+
+SNR2 = 47
+
+SNR3 = 47
+
+SNR4 = 48
+
+SNR5 = 46
+
+SNR6 = 46
+
+SNR7 = 28
+
+SNR8 = 46
+
+*********************
+
+GPS Signal Test PASS! Use time = 37.320 sec.
+
+
+Total Time 00:00:59

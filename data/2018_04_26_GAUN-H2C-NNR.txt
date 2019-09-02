@@ -1,0 +1,65 @@
+2018-04-26 17:15:36	Input SN : GAUN-H2C-NNR
+
+
+
+
+=====================
+
+GPS Module Detect....
+
+=====================
+
+Detect OK! Use time = 17.534 sec.
+
+
+
+
+
+=====================
+
+Enable GPS Module....
+
+=====================
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+=====================
+
+GPS Signal Test....
+
+=====================
+
+TTFF = 45.0 (s)
+
+
+
+SNR1 = 45
+
+SNR2 = 46
+
+SNR3 = 46
+
+SNR4 = 45
+
+SNR5 = 45
+
+SNR6 = 45
+
+SNR7 = 46
+
+*********************
+
+GPS Signal Test PASS! Use time = 50.561 sec.
+
+
+Total Time 00:01:24

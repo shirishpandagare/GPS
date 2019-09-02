@@ -1,0 +1,67 @@
+2018-03-08 20:13:16	Input SN : GG36-TNK-3C6
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 8183.502 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 46.0 (s)
+
+
+
+SNR1 = 34
+
+SNR2 = 27
+
+SNR3 = 36
+
+SNR4 = 35
+
+SNR5 = 37
+
+SNR6 = 27
+
+SNR7 = 37
+
+SNR8 = 27
+
+*********************
+
+GPS Signal Test PASS! Use time = 66.200 sec.
+
+
+Total Time 00:01:40

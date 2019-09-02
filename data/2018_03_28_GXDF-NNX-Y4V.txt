@@ -1,0 +1,67 @@
+2018-03-28 15:46:09	Input SN : GXDF-NNX-Y4V
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 3858.357 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 35.0 (s)
+
+
+
+SNR1 = 43
+
+SNR2 = 29
+
+SNR3 = 44
+
+SNR4 = 43
+
+SNR5 = 43
+
+SNR6 = 43
+
+SNR7 = 43
+
+SNR8 = 44
+
+*********************
+
+GPS Signal Test PASS! Use time = 38.440 sec.
+
+
+Total Time 00:01:20

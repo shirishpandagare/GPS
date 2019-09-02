@@ -1,0 +1,67 @@
+2018-04-21 03:29:35	Input SN : GRZU-FHE-3V8
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 8271.591 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 35.0 (s)
+
+
+
+SNR1 = 44
+
+SNR2 = 44
+
+SNR3 = 44
+
+SNR4 = 44
+
+SNR5 = 44
+
+SNR6 = 44
+
+SNR7 = 44
+
+SNR8 = 44
+
+*********************
+
+GPS Signal Test PASS! Use time = 93.790 sec.
+
+
+Total Time 00:02:14

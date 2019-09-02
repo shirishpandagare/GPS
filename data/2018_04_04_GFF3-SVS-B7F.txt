@@ -1,0 +1,67 @@
+2018-04-04 02:51:55	Input SN : GFF3-SVS-B7F
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 1485.498 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.600 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 25.0 (s)
+
+
+
+SNR1 = 29
+
+SNR2 = 43
+
+SNR3 = 43
+
+SNR4 = 29
+
+SNR5 = 43
+
+SNR6 = 43
+
+SNR7 = 43
+
+SNR8 = 44
+
+*********************
+
+GPS Signal Test PASS! Use time = 115.580 sec.
+
+
+Total Time 00:02:12

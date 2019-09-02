@@ -1,0 +1,67 @@
+2018-04-21 12:51:42	Input SN : GYF8-R52-3C6
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 8626.926 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 36.0 (s)
+
+
+
+SNR1 = 45
+
+SNR2 = 45
+
+SNR3 = 45
+
+SNR4 = 46
+
+SNR5 = 45
+
+SNR6 = 46
+
+SNR7 = 46
+
+SNR8 = 46
+
+*********************
+
+GPS Signal Test PASS! Use time = 38.756 sec.
+
+
+Total Time 00:00:57

@@ -1,0 +1,67 @@
+2018-04-04 05:05:49	Input SN : GX74-DBS-RTR
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 1519.006 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 27.0 (s)
+
+
+
+SNR1 = 45
+
+SNR2 = 28
+
+SNR3 = 45
+
+SNR4 = 45
+
+SNR5 = 28
+
+SNR6 = 43
+
+SNR7 = 30
+
+SNR8 = 44
+
+*********************
+
+GPS Signal Test PASS! Use time = 29.100 sec.
+
+
+Total Time 00:00:47

@@ -1,0 +1,61 @@
+2018-04-14 17:06:49	Input SN : GDPP-TMJ-EJF
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 13.494 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.580 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 33.0 (s)
+
+
+
+SNR1 = 46
+
+SNR2 = 46
+
+SNR3 = 47
+
+SNR4 = 47
+
+*********************
+
+GPS Signal Test PASS! Use time = 36.880 sec.
+
+
+Total Time 00:01:18

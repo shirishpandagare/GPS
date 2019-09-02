@@ -1,0 +1,67 @@
+2018-04-04 04:58:50	Input SN : GZKF-TUJ-ETD
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 1094.903 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 32.0 (s)
+
+
+
+SNR1 = 46
+
+SNR2 = 47
+
+SNR3 = 47
+
+SNR4 = 46
+
+SNR5 = 28
+
+SNR6 = 43
+
+SNR7 = 30
+
+SNR8 = 44
+
+*********************
+
+GPS Signal Test PASS! Use time = 34.200 sec.
+
+
+Total Time 00:00:52

@@ -1,0 +1,69 @@
+2018-04-15 04:32:44	Input SN : GSCW-UYS-PBR
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 19919.368 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.570 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 36.0 (s)
+
+
+
+SNR1 = 41
+
+SNR2 = 40
+
+SNR3 = 41
+
+SNR4 = 41
+
+SNR5 = 42
+
+SNR6 = 41
+
+SNR7 = 41
+
+SNR8 = 42
+
+*********************
+
+GPS Signal Test PASS! Use time = 94.880 sec.
+
+
+Total Time 00:02:14

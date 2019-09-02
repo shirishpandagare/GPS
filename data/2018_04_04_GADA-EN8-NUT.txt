@@ -1,0 +1,69 @@
+2018-04-04 03:32:35	Input SN : GADA-EN8-NUT
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 1948.684 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.570 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 34.0 (s)
+
+
+
+SNR1 = 30
+
+SNR2 = 46
+
+SNR3 = 31
+
+SNR4 = 45
+
+SNR5 = 45
+
+SNR6 = 45
+
+SNR7 = 45
+
+SNR8 = 44
+
+*********************
+
+GPS Signal Test PASS! Use time = 35.440 sec.
+
+
+Total Time 00:00:57

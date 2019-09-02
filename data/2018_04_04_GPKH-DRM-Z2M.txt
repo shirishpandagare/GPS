@@ -1,0 +1,59 @@
+2018-04-04 06:42:20	Input SN : GPKH-DRM-Z2M
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 788.804 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 37.0 (s)
+
+
+
+SNR1 = 45
+
+SNR2 = 46
+
+SNR3 = 45
+
+SNR4 = 46
+
+*********************
+
+GPS Signal Test PASS! Use time = 39.210 sec.
+
+
+Total Time 00:00:57

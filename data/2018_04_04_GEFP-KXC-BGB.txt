@@ -1,0 +1,67 @@
+2018-04-04 01:15:21	Input SN : GEFP-KXC-BGB
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 594.472 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 35.0 (s)
+
+
+
+SNR1 = 42
+
+SNR2 = 42
+
+SNR3 = 42
+
+SNR4 = 42
+
+SNR5 = 44
+
+SNR6 = 44
+
+SNR7 = 44
+
+SNR8 = 44
+
+*********************
+
+GPS Signal Test PASS! Use time = 38.080 sec.
+
+
+Total Time 00:00:59

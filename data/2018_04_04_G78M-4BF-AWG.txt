@@ -1,0 +1,67 @@
+2018-04-04 05:15:49	Input SN : G78M-4BF-AWG
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 2112.260 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 34.0 (s)
+
+
+
+SNR1 = 47
+
+SNR2 = 47
+
+SNR3 = 47
+
+SNR4 = 47
+
+SNR5 = 28
+
+SNR6 = 43
+
+SNR7 = 30
+
+SNR8 = 44
+
+*********************
+
+GPS Signal Test PASS! Use time = 35.851 sec.
+
+
+Total Time 00:00:54

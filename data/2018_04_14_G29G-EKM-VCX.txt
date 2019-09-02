@@ -1,0 +1,67 @@
+2018-04-14 16:19:19	Input SN : G29G-EKM-VCX
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 977.512 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.580 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 29.0 (s)
+
+
+
+SNR1 = 47
+
+SNR2 = 47
+
+SNR3 = 47
+
+SNR4 = 47
+
+SNR5 = 46
+
+SNR6 = 47
+
+SNR7 = 47
+
+*********************
+
+GPS Signal Test PASS! Use time = 32.070 sec.
+
+
+Total Time 00:01:09

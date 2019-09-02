@@ -1,0 +1,59 @@
+2018-04-21 10:48:46	Input SN : G5F6-5TC-4YB
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 5.192 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.600 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 29.0 (s)
+
+
+
+SNR1 = 43
+
+SNR2 = 42
+
+SNR3 = 42
+
+SNR4 = 43
+
+*********************
+
+GPS Signal Test PASS! Use time = 32.710 sec.
+
+
+Total Time 00:00:51

@@ -1,0 +1,69 @@
+2018-04-14 15:57:48	Input SN : GEVH-RK9-ESJ
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 1630.816 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.570 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 34.0 (s)
+
+
+
+SNR1 = 48
+
+SNR2 = 48
+
+SNR3 = 48
+
+SNR4 = 48
+
+SNR5 = 48
+
+SNR6 = 48
+
+SNR7 = 48
+
+SNR8 = 47
+
+*********************
+
+GPS Signal Test PASS! Use time = 37.450 sec.
+
+
+Total Time 00:01:17

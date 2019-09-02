@@ -1,0 +1,69 @@
+2018-03-09 11:14:07	Input SN : GU8T-SV9-AU3
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 2756.516 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.550 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 32.0 (s)
+
+
+
+SNR1 = 41
+
+SNR2 = 41
+
+SNR3 = 35
+
+SNR4 = 41
+
+SNR5 = 38
+
+SNR6 = 39
+
+SNR7 = 29
+
+SNR8 = 30
+
+*********************
+
+GPS Signal Test PASS! Use time = 91.901 sec.
+
+
+Total Time 00:02:13

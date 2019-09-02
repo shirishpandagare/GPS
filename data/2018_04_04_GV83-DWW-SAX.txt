@@ -1,0 +1,67 @@
+2018-04-04 07:41:39	Input SN : GV83-DWW-SAX
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 4647.480 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 24.0 (s)
+
+
+
+SNR1 = 43
+
+SNR2 = 43
+
+SNR3 = 30
+
+SNR4 = 43
+
+SNR5 = 43
+
+SNR6 = 43
+
+SNR7 = 28
+
+SNR8 = 49
+
+*********************
+
+GPS Signal Test PASS! Use time = 26.310 sec.
+
+
+Total Time 00:00:45

@@ -1,0 +1,67 @@
+2018-04-21 02:04:14	Input SN : G4ZZ-MX8-DAC
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 7396.972 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.600 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 37.0 (s)
+
+
+
+SNR1 = 40
+
+SNR2 = 39
+
+SNR3 = 39
+
+SNR4 = 39
+
+SNR5 = 39
+
+SNR6 = 39
+
+SNR7 = 40
+
+SNR8 = 39
+
+*********************
+
+GPS Signal Test PASS! Use time = 40.550 sec.
+
+
+Total Time 00:01:19

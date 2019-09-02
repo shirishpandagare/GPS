@@ -1,0 +1,69 @@
+2018-03-28 15:56:39	Input SN : G5HZ-XH6-NJE
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 4485.253 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.580 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 35.0 (s)
+
+
+
+SNR1 = 43
+
+SNR2 = 44
+
+SNR3 = 44
+
+SNR4 = 44
+
+SNR5 = 43
+
+SNR6 = 44
+
+SNR7 = 44
+
+SNR8 = 43
+
+*********************
+
+GPS Signal Test PASS! Use time = 38.590 sec.
+
+
+Total Time 00:01:23

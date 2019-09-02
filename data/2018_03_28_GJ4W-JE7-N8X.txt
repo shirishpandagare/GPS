@@ -1,0 +1,67 @@
+2018-03-28 14:35:52	Input SN : GJ4W-JE7-N8X
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 1048.837 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 16.0 (s)
+
+
+
+SNR1 = 30
+
+SNR2 = 33
+
+SNR3 = 33
+
+SNR4 = 30
+
+SNR5 = 40
+
+SNR6 = 29
+
+SNR7 = 40
+
+SNR8 = 40
+
+*********************
+
+GPS Signal Test PASS! Use time = 16.210 sec.
+
+
+Total Time 00:00:58

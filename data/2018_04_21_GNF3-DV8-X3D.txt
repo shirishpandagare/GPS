@@ -1,0 +1,67 @@
+2018-04-21 11:18:14	Input SN : GNF3-DV8-X3D
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 3000.206 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 35.0 (s)
+
+
+
+SNR1 = 44
+
+SNR2 = 44
+
+SNR3 = 45
+
+SNR4 = 44
+
+SNR5 = 46
+
+SNR6 = 45
+
+SNR7 = 46
+
+SNR8 = 46
+
+*********************
+
+GPS Signal Test PASS! Use time = 36.980 sec.
+
+
+Total Time 00:01:15

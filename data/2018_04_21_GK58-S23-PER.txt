@@ -1,0 +1,67 @@
+2018-04-21 04:41:24	Input SN : GK58-S23-PER
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 12600.448 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 34.0 (s)
+
+
+
+SNR1 = 47
+
+SNR2 = 48
+
+SNR3 = 48
+
+SNR4 = 47
+
+SNR5 = 47
+
+SNR6 = 47
+
+SNR7 = 47
+
+SNR8 = 47
+
+*********************
+
+GPS Signal Test PASS! Use time = 76.450 sec.
+
+
+Total Time 00:01:54

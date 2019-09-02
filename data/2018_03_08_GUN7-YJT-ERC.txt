@@ -1,0 +1,69 @@
+2018-03-08 18:46:00	Input SN : GUN7-YJT-ERC
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 2985.572 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.580 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 24.0 (s)
+
+
+
+SNR1 = 28
+
+SNR2 = 38
+
+SNR3 = 31
+
+SNR4 = 38
+
+SNR5 = 28
+
+SNR6 = 39
+
+SNR7 = 30
+
+SNR8 = 39
+
+*********************
+
+GPS Signal Test PASS! Use time = 25.490 sec.
+
+
+Total Time 00:01:01

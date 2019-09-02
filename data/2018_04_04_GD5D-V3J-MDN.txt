@@ -1,0 +1,67 @@
+2018-04-04 03:29:41	Input SN : GD5D-V3J-MDN
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 3093.414 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 34.0 (s)
+
+
+
+SNR1 = 45
+
+SNR2 = 44
+
+SNR3 = 45
+
+SNR4 = 45
+
+SNR5 = 46
+
+SNR6 = 47
+
+SNR7 = 46
+
+SNR8 = 44
+
+*********************
+
+GPS Signal Test PASS! Use time = 35.070 sec.
+
+
+Total Time 00:00:53

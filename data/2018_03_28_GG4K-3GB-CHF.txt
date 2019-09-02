@@ -1,0 +1,67 @@
+2018-03-28 15:16:35	Input SN : GG4K-3GB-CHF
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 2854.214 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 43.0 (s)
+
+
+
+SNR1 = 39
+
+SNR2 = 39
+
+SNR3 = 29
+
+SNR4 = 39
+
+SNR5 = 39
+
+SNR6 = 39
+
+SNR7 = 30
+
+SNR8 = 39
+
+*********************
+
+GPS Signal Test PASS! Use time = 46.900 sec.
+
+
+Total Time 00:01:27

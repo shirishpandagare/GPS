@@ -1,0 +1,67 @@
+2018-04-04 06:26:38	Input SN : GGGP-SES-DA7
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 145.156 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 25.0 (s)
+
+
+
+SNR1 = 46
+
+SNR2 = 46
+
+SNR3 = 46
+
+SNR4 = 46
+
+SNR5 = 27
+
+SNR6 = 30
+
+SNR7 = 30
+
+SNR8 = 30
+
+*********************
+
+GPS Signal Test PASS! Use time = 27.570 sec.
+
+
+Total Time 00:00:46

@@ -1,0 +1,67 @@
+2018-04-14 14:56:45	Input SN : GVRP-6X5-WZY
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 799.782 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 34.0 (s)
+
+
+
+SNR1 = 47
+
+SNR2 = 47
+
+SNR3 = 47
+
+SNR4 = 47
+
+SNR5 = 42
+
+SNR6 = 42
+
+SNR7 = 41
+
+SNR8 = 30
+
+*********************
+
+GPS Signal Test PASS! Use time = 95.220 sec.
+
+
+Total Time 00:02:13

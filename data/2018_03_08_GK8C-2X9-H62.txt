@@ -1,0 +1,67 @@
+2018-03-08 19:46:04	Input SN : GK8C-2X9-H62
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 6562.301 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 40.0 (s)
+
+
+
+SNR1 = 28
+
+SNR2 = 29
+
+SNR3 = 31
+
+SNR4 = 28
+
+SNR5 = 32
+
+SNR6 = 35
+
+SNR7 = 35
+
+SNR8 = 28
+
+*********************
+
+GPS Signal Test PASS! Use time = 53.960 sec.
+
+
+Total Time 00:01:29

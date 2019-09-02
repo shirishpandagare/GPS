@@ -1,0 +1,67 @@
+2018-04-04 11:50:27	Input SN : GTWT-3Z4-Y5B
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 1139.983 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 22.0 (s)
+
+
+
+SNR1 = 36
+
+SNR2 = 35
+
+SNR3 = 36
+
+SNR4 = 35
+
+SNR5 = 33
+
+SNR6 = 33
+
+SNR7 = 33
+
+SNR8 = 32
+
+*********************
+
+GPS Signal Test PASS! Use time = 23.660 sec.
+
+
+Total Time 00:01:01

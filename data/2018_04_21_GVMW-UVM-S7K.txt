@@ -1,0 +1,61 @@
+2018-04-21 08:48:26	Input SN : GVMW-UVM-S7K
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 5.178 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.570 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 27.0 (s)
+
+
+
+SNR5 = 47
+
+SNR6 = 47
+
+SNR7 = 39
+
+SNR8 = 47
+
+*********************
+
+GPS Signal Test PASS! Use time = 70.940 sec.
+
+
+Total Time 00:01:39

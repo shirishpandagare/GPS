@@ -1,0 +1,67 @@
+2018-04-03 23:11:36	Input SN : GY5C-V65-VUJ
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 5453.417 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 34.0 (s)
+
+
+
+SNR1 = 45
+
+SNR2 = 46
+
+SNR3 = 46
+
+SNR4 = 46
+
+SNR5 = 45
+
+SNR6 = 46
+
+SNR7 = 46
+
+SNR8 = 42
+
+*********************
+
+GPS Signal Test PASS! Use time = 37.290 sec.
+
+
+Total Time 00:00:59

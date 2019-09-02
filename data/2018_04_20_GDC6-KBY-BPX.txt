@@ -1,0 +1,59 @@
+2018-04-20 22:38:46	Input SN : GDC6-KBY-BPX
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 544.036 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 27.0 (s)
+
+
+
+SNR1 = 45
+
+SNR2 = 45
+
+SNR3 = 44
+
+SNR4 = 44
+
+*********************
+
+GPS Signal Test PASS! Use time = 30.160 sec.
+
+
+Total Time 00:01:08

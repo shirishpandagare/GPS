@@ -1,0 +1,67 @@
+2018-04-21 08:58:48	Input SN : GBE5-YUY-W4M
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 1437.604 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 29.0 (s)
+
+
+
+SNR1 = 40
+
+SNR2 = 30
+
+SNR3 = 40
+
+SNR4 = 35
+
+SNR5 = 41
+
+SNR6 = 42
+
+SNR7 = 33
+
+SNR8 = 42
+
+*********************
+
+GPS Signal Test PASS! Use time = 32.150 sec.
+
+
+Total Time 00:01:13

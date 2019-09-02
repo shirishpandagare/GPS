@@ -1,0 +1,61 @@
+2018-04-21 02:17:56	Input SN : GTXG-GVG-2NF
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 124.373 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.570 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 39.0 (s)
+
+
+
+SNR1 = 40
+
+SNR2 = 40
+
+SNR3 = 39
+
+SNR4 = 39
+
+*********************
+
+GPS Signal Test PASS! Use time = 83.190 sec.
+
+
+Total Time 00:02:04

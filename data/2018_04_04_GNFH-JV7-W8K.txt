@@ -1,0 +1,67 @@
+2018-04-04 04:39:37	Input SN : GNFH-JV7-W8K
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 1925.418 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 44.0 (s)
+
+
+
+SNR1 = 46
+
+SNR2 = 47
+
+SNR3 = 46
+
+SNR4 = 46
+
+SNR5 = 47
+
+SNR6 = 47
+
+SNR7 = 48
+
+SNR8 = 47
+
+*********************
+
+GPS Signal Test PASS! Use time = 105.720 sec.
+
+
+Total Time 00:02:03

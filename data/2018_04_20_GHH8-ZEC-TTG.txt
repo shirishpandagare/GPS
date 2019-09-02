@@ -1,0 +1,67 @@
+2018-04-20 21:11:33	Input SN : GHH8-ZEC-TTG
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 2063.236 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 0.0 (s)
+
+
+
+SNR1 = 37
+
+SNR2 = 36
+
+SNR3 = 36
+
+SNR4 = 36
+
+SNR5 = 37
+
+SNR6 = 36
+
+SNR7 = 36
+
+SNR8 = 37
+
+*********************
+
+GPS Signal Test PASS! Use time = 2.640 sec.
+
+
+Total Time 00:00:20

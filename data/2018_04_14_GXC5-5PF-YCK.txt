@@ -1,0 +1,67 @@
+2018-04-14 23:35:34	Input SN : GXC5-5PF-YCK
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 2144.908 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 39.0 (s)
+
+
+
+SNR1 = 28
+
+SNR2 = 44
+
+SNR3 = 45
+
+SNR4 = 45
+
+SNR5 = 28
+
+SNR6 = 43
+
+SNR7 = 43
+
+SNR8 = 43
+
+*********************
+
+GPS Signal Test PASS! Use time = 40.620 sec.
+
+
+Total Time 00:01:18

@@ -1,0 +1,65 @@
+2018-04-04 02:12:25	Input SN : GJB2-7DM-9JM
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 1435.746 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.600 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 32.0 (s)
+
+
+
+SNR1 = 45
+
+SNR2 = 45
+
+SNR3 = 45
+
+SNR4 = 44
+
+SNR5 = 45
+
+SNR6 = 45
+
+SNR7 = 45
+
+*********************
+
+GPS Signal Test PASS! Use time = 33.930 sec.
+
+
+Total Time 00:00:52

@@ -1,0 +1,67 @@
+2018-04-04 04:05:21	Input SN : GRX9-S53-3J8
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 5969.558 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.600 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 34.0 (s)
+
+
+
+SNR1 = 43
+
+SNR2 = 44
+
+SNR3 = 43
+
+SNR4 = 43
+
+SNR5 = 44
+
+SNR6 = 44
+
+SNR7 = 44
+
+SNR8 = 43
+
+*********************
+
+GPS Signal Test PASS! Use time = 37.870 sec.
+
+
+Total Time 00:00:56

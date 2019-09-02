@@ -1,0 +1,69 @@
+2018-04-04 03:56:58	Input SN : GNF8-SAC-84K
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 610.694 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.570 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 36.0 (s)
+
+
+
+SNR1 = 46
+
+SNR2 = 47
+
+SNR3 = 47
+
+SNR4 = 47
+
+SNR5 = 45
+
+SNR6 = 45
+
+SNR7 = 46
+
+SNR8 = 45
+
+*********************
+
+GPS Signal Test PASS! Use time = 39.770 sec.
+
+
+Total Time 00:01:00

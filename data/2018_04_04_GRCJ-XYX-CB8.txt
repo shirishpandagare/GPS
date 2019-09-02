@@ -1,0 +1,67 @@
+2018-04-04 04:20:08	Input SN : GRCJ-XYX-CB8
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 6116.966 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 35.0 (s)
+
+
+
+SNR1 = 47
+
+SNR2 = 47
+
+SNR3 = 47
+
+SNR4 = 46
+
+SNR5 = 47
+
+SNR6 = 47
+
+SNR7 = 46
+
+SNR8 = 45
+
+*********************
+
+GPS Signal Test PASS! Use time = 38.530 sec.
+
+
+Total Time 00:00:57

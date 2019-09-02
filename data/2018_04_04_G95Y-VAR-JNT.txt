@@ -1,0 +1,69 @@
+2018-04-04 01:02:36	Input SN : G95Y-VAR-JNT
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 4935.073 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.580 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 33.0 (s)
+
+
+
+SNR1 = 44
+
+SNR2 = 44
+
+SNR3 = 44
+
+SNR4 = 44
+
+SNR5 = 44
+
+SNR6 = 43
+
+SNR7 = 44
+
+SNR8 = 43
+
+*********************
+
+GPS Signal Test PASS! Use time = 36.611 sec.
+
+
+Total Time 00:01:29

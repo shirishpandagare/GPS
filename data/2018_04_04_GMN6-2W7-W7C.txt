@@ -1,0 +1,61 @@
+2018-04-04 11:00:08	Input SN : GMN6-2W7-W7C
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 443.385 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.580 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 120.0 (s)
+
+
+
+SNR1 = 36
+
+SNR2 = 36
+
+SNR3 = 36
+
+SNR4 = 36
+
+*********************
+
+GPS Signal Test PASS! Use time = 120.564 sec.
+
+
+Total Time 00:02:43

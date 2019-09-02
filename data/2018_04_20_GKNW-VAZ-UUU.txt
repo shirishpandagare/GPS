@@ -1,0 +1,65 @@
+2018-04-20 16:37:09	Input SN : GKNW-VAZ-UUU
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 170.446 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 36.0 (s)
+
+
+
+SNR1 = 48
+
+SNR2 = 48
+
+SNR3 = 47
+
+SNR4 = 48
+
+SNR5 = 48
+
+SNR6 = 48
+
+SNR7 = 47
+
+*********************
+
+GPS Signal Test PASS! Use time = 37.070 sec.
+
+
+Total Time 00:01:18

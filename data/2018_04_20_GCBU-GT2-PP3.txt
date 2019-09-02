@@ -1,0 +1,67 @@
+2018-04-20 21:56:08	Input SN : GCBU-GT2-PP3
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 4601.805 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 120.0 (s)
+
+
+
+SNR1 = 37
+
+SNR2 = 36
+
+SNR3 = 37
+
+SNR4 = 37
+
+SNR5 = 37
+
+SNR6 = 36
+
+SNR7 = 37
+
+SNR8 = 37
+
+*********************
+
+GPS Signal Test PASS! Use time = 120.460 sec.
+
+
+Total Time 00:02:37

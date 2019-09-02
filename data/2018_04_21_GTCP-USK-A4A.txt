@@ -1,0 +1,67 @@
+2018-04-21 10:57:15	Input SN : GTCP-USK-A4A
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 1744.138 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 30.0 (s)
+
+
+
+SNR1 = 46
+
+SNR2 = 47
+
+SNR3 = 47
+
+SNR4 = 47
+
+SNR5 = 46
+
+SNR6 = 47
+
+SNR7 = 47
+
+SNR8 = 46
+
+*********************
+
+GPS Signal Test PASS! Use time = 34.050 sec.
+
+
+Total Time 00:01:11

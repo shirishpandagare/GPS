@@ -1,0 +1,67 @@
+2018-03-08 20:26:19	Input SN : GES6-SZW-AFB
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 8755.451 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 120.0 (s)
+
+
+
+SNR1 = 37
+
+SNR2 = 37
+
+SNR3 = 36
+
+SNR4 = 37
+
+SNR5 = 30
+
+SNR6 = 34
+
+SNR7 = 28
+
+SNR8 = 34
+
+*********************
+
+GPS Signal Test PASS! Use time = 120.402 sec.
+
+
+Total Time 00:02:40

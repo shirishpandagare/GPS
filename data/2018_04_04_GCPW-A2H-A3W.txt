@@ -1,0 +1,65 @@
+2018-04-04 02:27:20	Input SN : GCPW-A2H-A3W
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 402.182 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 31.0 (s)
+
+
+
+SNR1 = 26
+
+SNR2 = 43
+
+SNR3 = 43
+
+SNR4 = 43
+
+SNR5 = 45
+
+SNR6 = 45
+
+SNR7 = 46
+
+*********************
+
+GPS Signal Test PASS! Use time = 34.010 sec.
+
+
+Total Time 00:00:52

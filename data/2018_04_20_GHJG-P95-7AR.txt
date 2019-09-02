@@ -1,0 +1,69 @@
+2018-04-20 15:23:22	Input SN : GHJG-P95-7AR
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 368.984 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.580 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 83.0 (s)
+
+
+
+SNR1 = 29
+
+SNR2 = 29
+
+SNR3 = 29
+
+SNR4 = 41
+
+SNR5 = 41
+
+SNR6 = 42
+
+SNR7 = 42
+
+SNR8 = 42
+
+*********************
+
+GPS Signal Test PASS! Use time = 92.630 sec.
+
+
+Total Time 00:02:04

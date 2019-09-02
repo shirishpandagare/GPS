@@ -1,0 +1,67 @@
+2018-04-04 05:17:54	Input SN : GDFC-5SC-2Z4
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 4290.384 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 34.0 (s)
+
+
+
+SNR1 = 47
+
+SNR2 = 48
+
+SNR3 = 48
+
+SNR4 = 48
+
+SNR5 = 48
+
+SNR6 = 48
+
+SNR7 = 47
+
+SNR8 = 47
+
+*********************
+
+GPS Signal Test PASS! Use time = 37.760 sec.
+
+
+Total Time 00:00:56

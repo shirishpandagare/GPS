@@ -1,0 +1,65 @@
+2018-04-04 02:56:17	Input SN : GDJR-BK7-T9S
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 1052.251 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 35.0 (s)
+
+
+
+SNR1 = 29
+
+SNR2 = 45
+
+SNR3 = 33
+
+SNR4 = 45
+
+SNR5 = 46
+
+SNR6 = 46
+
+SNR7 = 46
+
+*********************
+
+GPS Signal Test PASS! Use time = 72.220 sec.
+
+
+Total Time 00:01:30

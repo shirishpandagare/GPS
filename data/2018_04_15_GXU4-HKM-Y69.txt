@@ -1,0 +1,67 @@
+2018-04-15 03:50:09	Input SN : GXU4-HKM-Y69
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 17422.996 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 34.0 (s)
+
+
+
+SNR1 = 43
+
+SNR2 = 43
+
+SNR3 = 42
+
+SNR4 = 42
+
+SNR5 = 42
+
+SNR6 = 42
+
+SNR7 = 43
+
+SNR8 = 42
+
+*********************
+
+GPS Signal Test PASS! Use time = 37.730 sec.
+
+
+Total Time 00:01:16

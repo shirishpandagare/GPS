@@ -1,0 +1,61 @@
+2018-04-04 03:00:37	Input SN : GS8C-EMP-KVN
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 43.914 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.570 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 21.0 (s)
+
+
+
+SNR5 = 46
+
+SNR6 = 46
+
+SNR7 = 46
+
+SNR8 = 46
+
+*********************
+
+GPS Signal Test PASS! Use time = 22.280 sec.
+
+
+Total Time 00:00:44

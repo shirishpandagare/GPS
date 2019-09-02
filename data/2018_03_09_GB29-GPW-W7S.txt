@@ -1,0 +1,67 @@
+2018-03-09 09:21:13	Input SN : GB29-GPW-W7S
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 1309.908 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 22.0 (s)
+
+
+
+SNR1 = 38
+
+SNR2 = 28
+
+SNR3 = 38
+
+SNR4 = 27
+
+SNR5 = 41
+
+SNR6 = 42
+
+SNR7 = 42
+
+SNR8 = 41
+
+*********************
+
+GPS Signal Test PASS! Use time = 36.210 sec.
+
+
+Total Time 00:01:11

@@ -1,0 +1,69 @@
+2018-04-20 14:33:21	Input SN : GTFX-84C-MBX
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 153.466 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.580 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 29.0 (s)
+
+
+
+SNR1 = 41
+
+SNR2 = 41
+
+SNR3 = 41
+
+SNR4 = 41
+
+SNR5 = 35
+
+SNR6 = 34
+
+SNR7 = 34
+
+SNR8 = 34
+
+*********************
+
+GPS Signal Test PASS! Use time = 30.800 sec.
+
+
+Total Time 00:01:14

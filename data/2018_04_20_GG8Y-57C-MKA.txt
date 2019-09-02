@@ -1,0 +1,69 @@
+2018-04-20 17:00:11	Input SN : GG8Y-57C-MKA
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 879.866 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.580 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 39.0 (s)
+
+
+
+SNR1 = 31
+
+SNR2 = 30
+
+SNR3 = 41
+
+SNR4 = 31
+
+SNR5 = 40
+
+SNR6 = 30
+
+SNR7 = 29
+
+SNR8 = 40
+
+*********************
+
+GPS Signal Test PASS! Use time = 70.640 sec.
+
+
+Total Time 00:01:53

@@ -1,0 +1,67 @@
+2018-04-21 04:19:05	Input SN : GDMM-YEF-C8S
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 1647.202 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.600 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 38.0 (s)
+
+
+
+SNR1 = 41
+
+SNR2 = 32
+
+SNR3 = 40
+
+SNR4 = 41
+
+SNR5 = 41
+
+SNR6 = 42
+
+SNR7 = 41
+
+SNR8 = 41
+
+*********************
+
+GPS Signal Test PASS! Use time = 98.810 sec.
+
+
+Total Time 00:02:17

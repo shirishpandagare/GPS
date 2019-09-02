@@ -1,0 +1,67 @@
+2018-03-09 11:20:20	Input SN : GPEC-PF7-8VP
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 3123.952 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 56.0 (s)
+
+
+
+SNR1 = 37
+
+SNR2 = 29
+
+SNR3 = 37
+
+SNR4 = 37
+
+SNR5 = 38
+
+SNR6 = 39
+
+SNR7 = 29
+
+SNR8 = 30
+
+*********************
+
+GPS Signal Test PASS! Use time = 98.950 sec.
+
+
+Total Time 00:02:18

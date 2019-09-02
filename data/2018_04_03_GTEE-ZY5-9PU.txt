@@ -1,0 +1,59 @@
+2018-04-03 21:34:45	Input SN : GTEE-ZY5-9PU
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 6.440 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.600 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 35.0 (s)
+
+
+
+SNR5 = 35
+
+SNR6 = 35
+
+SNR7 = 36
+
+SNR8 = 35
+
+*********************
+
+GPS Signal Test PASS! Use time = 37.960 sec.
+
+
+Total Time 00:00:55

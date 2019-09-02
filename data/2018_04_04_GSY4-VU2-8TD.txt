@@ -1,0 +1,59 @@
+2018-04-04 07:09:29	Input SN : GSY4-VU2-8TD
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 6390.282 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 38.0 (s)
+
+
+
+SNR1 = 45
+
+SNR2 = 45
+
+SNR3 = 45
+
+SNR4 = 46
+
+*********************
+
+GPS Signal Test PASS! Use time = 41.231 sec.
+
+
+Total Time 00:01:01

@@ -1,0 +1,65 @@
+2018-04-14 16:39:47	Input SN : GYFG-FB8-WFS
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 16.522 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 39.0 (s)
+
+
+
+SNR1 = 49
+
+SNR2 = 49
+
+SNR3 = 48
+
+SNR4 = 48
+
+SNR5 = 48
+
+SNR6 = 48
+
+SNR7 = 48
+
+*********************
+
+GPS Signal Test PASS! Use time = 40.900 sec.
+
+
+Total Time 00:01:19

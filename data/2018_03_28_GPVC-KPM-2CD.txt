@@ -1,0 +1,69 @@
+2018-03-28 15:34:05	Input SN : GPVC-KPM-2CD
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 4516.819 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.590 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 36.0 (s)
+
+
+
+SNR1 = 30
+
+SNR2 = 33
+
+SNR3 = 33
+
+SNR4 = 30
+
+SNR5 = 38
+
+SNR6 = 28
+
+SNR7 = 38
+
+SNR8 = 38
+
+*********************
+
+GPS Signal Test PASS! Use time = 38.130 sec.
+
+
+Total Time 00:01:22

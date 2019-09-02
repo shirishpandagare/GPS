@@ -1,0 +1,67 @@
+2018-03-08 20:22:13	Input SN : GF98-5ZP-RT2
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 8666.110 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 120.0 (s)
+
+
+
+SNR1 = 29
+
+SNR2 = 33
+
+SNR3 = 34
+
+SNR4 = 33
+
+SNR5 = 37
+
+SNR6 = 27
+
+SNR7 = 37
+
+SNR8 = 27
+
+*********************
+
+GPS Signal Test PASS! Use time = 120.750 sec.
+
+
+Total Time 00:02:35

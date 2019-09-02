@@ -1,0 +1,69 @@
+2018-04-21 04:46:17	Input SN : GAY9-HF7-WNT
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 12934.862 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.570 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 27.0 (s)
+
+
+
+SNR1 = 45
+
+SNR2 = 46
+
+SNR3 = 46
+
+SNR4 = 46
+
+SNR5 = 46
+
+SNR6 = 45
+
+SNR7 = 46
+
+SNR8 = 45
+
+*********************
+
+GPS Signal Test PASS! Use time = 29.620 sec.
+
+
+Total Time 00:01:13

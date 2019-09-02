@@ -1,0 +1,67 @@
+2018-04-14 15:18:08	Input SN : GVGG-P3N-S8H
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 2143.789 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 36.0 (s)
+
+
+
+SNR1 = 44
+
+SNR2 = 44
+
+SNR3 = 44
+
+SNR4 = 44
+
+SNR5 = 46
+
+SNR6 = 46
+
+SNR7 = 47
+
+SNR8 = 46
+
+*********************
+
+GPS Signal Test PASS! Use time = 40.250 sec.
+
+
+Total Time 00:01:13

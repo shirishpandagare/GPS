@@ -1,0 +1,69 @@
+2018-04-21 11:47:44	Input SN : G37M-7HB-ZWY
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 4771.177 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.580 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 32.0 (s)
+
+
+
+SNR1 = 46
+
+SNR2 = 45
+
+SNR3 = 45
+
+SNR4 = 46
+
+SNR5 = 46
+
+SNR6 = 45
+
+SNR7 = 45
+
+SNR8 = 45
+
+*********************
+
+GPS Signal Test PASS! Use time = 34.520 sec.
+
+
+Total Time 00:01:14

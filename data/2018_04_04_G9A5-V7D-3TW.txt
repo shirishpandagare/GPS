@@ -1,0 +1,59 @@
+2018-04-04 12:17:58	Input SN : G9A5-V7D-3TW
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 594.448 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.600 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 120.0 (s)
+
+
+
+SNR1 = 35
+
+SNR2 = 34
+
+SNR3 = 34
+
+SNR4 = 34
+
+*********************
+
+GPS Signal Test PASS! Use time = 120.481 sec.
+
+
+Total Time 00:02:38

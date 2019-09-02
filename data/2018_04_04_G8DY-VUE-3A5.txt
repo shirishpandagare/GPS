@@ -1,0 +1,69 @@
+2018-04-04 08:13:03	Input SN : G8DY-VUE-3A5
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 6512.249 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.570 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 39.0 (s)
+
+
+
+SNR1 = 46
+
+SNR2 = 47
+
+SNR3 = 47
+
+SNR4 = 47
+
+SNR5 = 46
+
+SNR6 = 46
+
+SNR7 = 28
+
+SNR8 = 46
+
+*********************
+
+GPS Signal Test PASS! Use time = 42.580 sec.
+
+
+Total Time 00:01:03

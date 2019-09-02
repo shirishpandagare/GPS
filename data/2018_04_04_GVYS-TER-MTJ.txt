@@ -1,0 +1,67 @@
+2018-04-04 12:45:35	Input SN : GVYS-TER-MTJ
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 76.961 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 36.0 (s)
+
+
+
+SNR1 = 34
+
+SNR2 = 34
+
+SNR3 = 34
+
+SNR4 = 34
+
+SNR5 = 34
+
+SNR6 = 34
+
+SNR7 = 27
+
+SNR8 = 34
+
+*********************
+
+GPS Signal Test PASS! Use time = 65.830 sec.
+
+
+Total Time 00:01:45

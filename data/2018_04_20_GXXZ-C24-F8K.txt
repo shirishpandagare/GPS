@@ -1,0 +1,69 @@
+2018-04-20 22:16:03	Input SN : GXXZ-C24-F8K
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 5816.841 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.570 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 39.0 (s)
+
+
+
+SNR1 = 37
+
+SNR2 = 36
+
+SNR3 = 37
+
+SNR4 = 37
+
+SNR5 = 37
+
+SNR6 = 36
+
+SNR7 = 37
+
+SNR8 = 37
+
+*********************
+
+GPS Signal Test PASS! Use time = 98.790 sec.
+
+
+Total Time 00:02:16

@@ -1,0 +1,67 @@
+2018-03-08 20:06:35	Input SN : GGNB-F7B-W5E
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 7609.003 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 36.0 (s)
+
+
+
+SNR1 = 31
+
+SNR2 = 32
+
+SNR3 = 31
+
+SNR4 = 30
+
+SNR5 = 32
+
+SNR6 = 28
+
+SNR7 = 40
+
+SNR8 = 32
+
+*********************
+
+GPS Signal Test PASS! Use time = 92.416 sec.
+
+
+Total Time 00:02:01

@@ -1,0 +1,69 @@
+2018-03-08 20:29:58	Input SN : GEYZ-23N-FW5
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 9164.947 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.580 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 49.0 (s)
+
+
+
+SNR1 = 31
+
+SNR2 = 27
+
+SNR3 = 27
+
+SNR4 = 37
+
+SNR5 = 35
+
+SNR6 = 31
+
+SNR7 = 37
+
+SNR8 = 34
+
+*********************
+
+GPS Signal Test PASS! Use time = 80.701 sec.
+
+
+Total Time 00:02:00

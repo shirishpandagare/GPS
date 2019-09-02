@@ -1,0 +1,69 @@
+2018-03-08 19:36:38	Input SN : GN45-AVA-WGV
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 5981.577 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.580 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 44.0 (s)
+
+
+
+SNR1 = 33
+
+SNR2 = 28
+
+SNR3 = 28
+
+SNR4 = 33
+
+SNR5 = 35
+
+SNR6 = 29
+
+SNR7 = 35
+
+SNR8 = 36
+
+*********************
+
+GPS Signal Test PASS! Use time = 65.720 sec.
+
+
+Total Time 00:01:44

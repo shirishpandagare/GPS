@@ -1,0 +1,67 @@
+2018-04-20 16:24:53	Input SN : GA9X-CZC-UNZ
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 1168.919 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 69.0 (s)
+
+
+
+SNR1 = 28
+
+SNR2 = 41
+
+SNR3 = 32
+
+SNR4 = 40
+
+SNR5 = 40
+
+SNR6 = 41
+
+SNR7 = 40
+
+SNR8 = 40
+
+*********************
+
+GPS Signal Test PASS! Use time = 71.290 sec.
+
+
+Total Time 00:01:50

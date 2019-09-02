@@ -1,0 +1,61 @@
+2018-04-04 11:14:06	Input SN : GBZT-SPM-42E
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 147.612 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.580 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 120.0 (s)
+
+
+
+SNR1 = 35
+
+SNR2 = 35
+
+SNR3 = 35
+
+SNR4 = 35
+
+*********************
+
+GPS Signal Test PASS! Use time = 120.610 sec.
+
+
+Total Time 00:02:38

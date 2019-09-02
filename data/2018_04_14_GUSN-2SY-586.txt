@@ -1,0 +1,67 @@
+2018-04-14 23:52:46	Input SN : GUSN-2SY-586
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 3190.606 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 28.0 (s)
+
+
+
+SNR1 = 29
+
+SNR2 = 45
+
+SNR3 = 27
+
+SNR4 = 45
+
+SNR5 = 30
+
+SNR6 = 43
+
+SNR7 = 43
+
+SNR8 = 29
+
+*********************
+
+GPS Signal Test PASS! Use time = 29.920 sec.
+
+
+Total Time 00:01:04

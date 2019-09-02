@@ -1,0 +1,67 @@
+2018-04-20 21:51:13	Input SN : G3M5-TNE-NFG
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 4306.251 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 120.0 (s)
+
+
+
+SNR1 = 39
+
+SNR2 = 39
+
+SNR3 = 39
+
+SNR4 = 38
+
+SNR5 = 35
+
+SNR6 = 36
+
+SNR7 = 36
+
+SNR8 = 37
+
+*********************
+
+GPS Signal Test PASS! Use time = 120.490 sec.
+
+
+Total Time 00:02:37

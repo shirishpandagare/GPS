@@ -1,0 +1,67 @@
+2018-04-04 06:02:08	Input SN : GV87-P3V-9BN
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 4887.872 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 36.0 (s)
+
+
+
+SNR1 = 45
+
+SNR2 = 45
+
+SNR3 = 45
+
+SNR4 = 45
+
+SNR5 = 28
+
+SNR6 = 43
+
+SNR7 = 30
+
+SNR8 = 44
+
+*********************
+
+GPS Signal Test PASS! Use time = 39.270 sec.
+
+
+Total Time 00:00:57

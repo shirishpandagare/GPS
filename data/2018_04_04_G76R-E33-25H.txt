@@ -1,0 +1,67 @@
+2018-04-04 06:34:35	Input SN : G76R-E33-25H
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 647.116 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 1.0 (s)
+
+
+
+SNR1 = 46
+
+SNR2 = 46
+
+SNR3 = 46
+
+SNR4 = 46
+
+SNR5 = 27
+
+SNR6 = 28
+
+SNR7 = 49
+
+SNR8 = 49
+
+*********************
+
+GPS Signal Test PASS! Use time = 2.910 sec.
+
+
+Total Time 00:00:21

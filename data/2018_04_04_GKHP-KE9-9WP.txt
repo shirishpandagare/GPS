@@ -1,0 +1,69 @@
+2018-04-04 08:56:08	Input SN : GKHP-KE9-9WP
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 9101.530 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.580 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 36.0 (s)
+
+
+
+SNR1 = 36
+
+SNR2 = 36
+
+SNR3 = 36
+
+SNR4 = 36
+
+SNR5 = 36
+
+SNR6 = 36
+
+SNR7 = 36
+
+SNR8 = 36
+
+*********************
+
+GPS Signal Test PASS! Use time = 38.320 sec.
+
+
+Total Time 00:00:59

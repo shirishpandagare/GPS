@@ -1,0 +1,59 @@
+2018-04-21 01:11:45	Input SN : GM6M-EZS-4YP
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 14.498 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 35.0 (s)
+
+
+
+SNR1 = 45
+
+SNR2 = 44
+
+SNR3 = 45
+
+SNR4 = 44
+
+*********************
+
+GPS Signal Test PASS! Use time = 82.270 sec.
+
+
+Total Time 00:02:01

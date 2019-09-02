@@ -1,0 +1,67 @@
+2018-04-21 08:37:09	Input SN : GVCV-ABV-XT7
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 76.471 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 37.0 (s)
+
+
+
+SNR1 = 41
+
+SNR2 = 35
+
+SNR3 = 41
+
+SNR4 = 35
+
+SNR5 = 41
+
+SNR6 = 41
+
+SNR7 = 29
+
+SNR8 = 41
+
+*********************
+
+GPS Signal Test PASS! Use time = 95.700 sec.
+
+
+Total Time 00:02:14

@@ -1,0 +1,67 @@
+2018-04-14 14:51:37	Input SN : G9ZB-VZB-EZB
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 505.165 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 36.0 (s)
+
+
+
+SNR1 = 46
+
+SNR2 = 47
+
+SNR3 = 47
+
+SNR4 = 46
+
+SNR5 = 42
+
+SNR6 = 42
+
+SNR7 = 41
+
+SNR8 = 30
+
+*********************
+
+GPS Signal Test PASS! Use time = 94.750 sec.
+
+
+Total Time 00:01:59

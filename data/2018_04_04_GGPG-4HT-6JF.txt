@@ -1,0 +1,67 @@
+2018-04-04 06:21:03	Input SN : GGPG-4HT-6JF
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 8074.531 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 39.0 (s)
+
+
+
+SNR1 = 47
+
+SNR2 = 48
+
+SNR3 = 47
+
+SNR4 = 48
+
+SNR5 = 47
+
+SNR6 = 46
+
+SNR7 = 29
+
+SNR8 = 47
+
+*********************
+
+GPS Signal Test PASS! Use time = 42.650 sec.
+
+
+Total Time 00:01:00

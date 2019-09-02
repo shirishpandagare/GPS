@@ -1,0 +1,67 @@
+2018-04-04 10:59:53	Input SN : GEFH-Z25-ZWX
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 824.166 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.600 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 119.0 (s)
+
+
+
+SNR1 = 42
+
+SNR2 = 42
+
+SNR3 = 42
+
+SNR4 = 42
+
+SNR5 = 41
+
+SNR6 = 40
+
+SNR7 = 33
+
+SNR8 = 41
+
+*********************
+
+GPS Signal Test PASS! Use time = 120.060 sec.
+
+
+Total Time 00:02:26

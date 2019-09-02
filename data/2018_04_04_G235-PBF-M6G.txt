@@ -1,0 +1,59 @@
+2018-04-04 07:07:05	Input SN : G235-PBF-M6G
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 6255.724 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 28.0 (s)
+
+
+
+SNR1 = 45
+
+SNR2 = 45
+
+SNR3 = 46
+
+SNR4 = 46
+
+*********************
+
+GPS Signal Test PASS! Use time = 30.780 sec.
+
+
+Total Time 00:00:52

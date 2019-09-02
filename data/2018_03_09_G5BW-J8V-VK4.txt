@@ -1,0 +1,61 @@
+2018-03-09 10:24:44	Input SN : G5BW-J8V-VK4
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 363.152 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.580 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 46.0 (s)
+
+
+
+SNR5 = 40
+
+SNR6 = 40
+
+SNR7 = 39
+
+SNR8 = 40
+
+*********************
+
+GPS Signal Test PASS! Use time = 91.320 sec.
+
+
+Total Time 00:02:10

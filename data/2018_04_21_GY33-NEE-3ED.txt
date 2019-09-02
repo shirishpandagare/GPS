@@ -1,0 +1,67 @@
+2018-04-21 09:02:16	Input SN : GY33-NEE-3ED
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 863.278 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 32.0 (s)
+
+
+
+SNR1 = 44
+
+SNR2 = 44
+
+SNR3 = 44
+
+SNR4 = 44
+
+SNR5 = 45
+
+SNR6 = 45
+
+SNR7 = 46
+
+SNR8 = 45
+
+*********************
+
+GPS Signal Test PASS! Use time = 32.630 sec.
+
+
+Total Time 00:01:11

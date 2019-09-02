@@ -1,0 +1,67 @@
+2018-04-20 22:37:13	Input SN : GG2A-JHX-BDK
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 5261.408 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.600 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 28.0 (s)
+
+
+
+SNR1 = 40
+
+SNR2 = 40
+
+SNR3 = 40
+
+SNR4 = 40
+
+SNR5 = 39
+
+SNR6 = 30
+
+SNR7 = 39
+
+SNR8 = 41
+
+*********************
+
+GPS Signal Test PASS! Use time = 29.850 sec.
+
+
+Total Time 00:01:02

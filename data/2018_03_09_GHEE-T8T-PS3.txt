@@ -1,0 +1,67 @@
+2018-03-09 11:00:59	Input SN : GHEE-T8T-PS3
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 2538.895 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 47.0 (s)
+
+
+
+SNR1 = 36
+
+SNR2 = 35
+
+SNR3 = 27
+
+SNR4 = 36
+
+SNR5 = 36
+
+SNR6 = 37
+
+SNR7 = 36
+
+SNR8 = 28
+
+*********************
+
+GPS Signal Test PASS! Use time = 102.640 sec.
+
+
+Total Time 00:02:09

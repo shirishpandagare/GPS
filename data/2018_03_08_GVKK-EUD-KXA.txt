@@ -1,0 +1,67 @@
+2018-03-08 17:19:20	Input SN : GVKK-EUD-KXA
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 118.212 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 0.0 (s)
+
+
+
+SNR1 = 36
+
+SNR2 = 36
+
+SNR3 = 36
+
+SNR4 = 36
+
+SNR5 = 41
+
+SNR6 = 41
+
+SNR7 = 30
+
+SNR8 = 30
+
+*********************
+
+GPS Signal Test PASS! Use time = 1.350 sec.
+
+
+Total Time 00:00:33

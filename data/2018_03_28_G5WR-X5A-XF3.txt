@@ -1,0 +1,67 @@
+2018-03-28 15:17:46	Input SN : G5WR-X5A-XF3
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 3458.877 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 119.0 (s)
+
+
+
+SNR1 = 30
+
+SNR2 = 33
+
+SNR3 = 33
+
+SNR4 = 30
+
+SNR5 = 36
+
+SNR6 = 39
+
+SNR7 = 34
+
+SNR8 = 33
+
+*********************
+
+GPS Signal Test PASS! Use time = 120.151 sec.
+
+
+Total Time 00:02:41

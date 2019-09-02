@@ -1,0 +1,59 @@
+2018-05-02 16:55:53	Input SN : GES2-69G-GUE
+
+
+
+
+=====================
+
+GPS Module Detect....
+
+=====================
+
+Detect OK! Use time = 1.642 sec.
+
+
+
+
+
+=====================
+
+Enable GPS Module....
+
+=====================
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.600 sec.
+
+
+
+
+
+=====================
+
+GPS Signal Test....
+
+=====================
+
+TTFF = 2.0 (s)
+
+
+
+SNR5 = 44
+
+SNR6 = 45
+
+SNR7 = 44
+
+SNR8 = 45
+
+*********************
+
+GPS Signal Test PASS! Use time = 7.610 sec.
+
+
+Total Time 00:00:25

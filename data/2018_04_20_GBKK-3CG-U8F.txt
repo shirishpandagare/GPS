@@ -1,0 +1,67 @@
+2018-04-20 16:22:35	Input SN : GBKK-3CG-U8F
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 1234.577 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.600 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 37.0 (s)
+
+
+
+SNR1 = 43
+
+SNR2 = 43
+
+SNR3 = 44
+
+SNR4 = 43
+
+SNR5 = 44
+
+SNR6 = 44
+
+SNR7 = 44
+
+SNR8 = 42
+
+*********************
+
+GPS Signal Test PASS! Use time = 40.940 sec.
+
+
+Total Time 00:01:20

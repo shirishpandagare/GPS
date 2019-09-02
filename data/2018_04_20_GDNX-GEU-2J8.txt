@@ -1,0 +1,69 @@
+2018-04-20 16:31:16	Input SN : GDNX-GEU-2J8
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 1498.246 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.580 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 120.0 (s)
+
+
+
+SNR1 = 29
+
+SNR2 = 29
+
+SNR3 = 30
+
+SNR4 = 40
+
+SNR5 = 40
+
+SNR6 = 28
+
+SNR7 = 35
+
+SNR8 = 40
+
+*********************
+
+GPS Signal Test PASS! Use time = 120.990 sec.
+
+
+Total Time 00:02:43

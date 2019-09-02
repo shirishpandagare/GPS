@@ -1,0 +1,59 @@
+2018-04-14 17:12:39	Input SN : G95H-BE4-FMU
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 371.717 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 35.0 (s)
+
+
+
+SNR1 = 47
+
+SNR2 = 47
+
+SNR3 = 48
+
+SNR4 = 47
+
+*********************
+
+GPS Signal Test PASS! Use time = 35.980 sec.
+
+
+Total Time 00:01:09

@@ -1,0 +1,65 @@
+2018-04-14 21:25:48	Input SN : GEA3-G3N-33H
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 845.495 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 29.0 (s)
+
+
+
+SNR1 = 43
+
+SNR2 = 43
+
+SNR3 = 43
+
+SNR4 = 43
+
+SNR5 = 43
+
+SNR6 = 43
+
+SNR7 = 43
+
+*********************
+
+GPS Signal Test PASS! Use time = 32.910 sec.
+
+
+Total Time 00:01:07

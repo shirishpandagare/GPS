@@ -1,0 +1,67 @@
+2018-04-21 09:06:46	Input SN : GFKR-ZMT-EAK
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 1850.513 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 36.0 (s)
+
+
+
+SNR1 = 40
+
+SNR2 = 30
+
+SNR3 = 40
+
+SNR4 = 35
+
+SNR5 = 39
+
+SNR6 = 28
+
+SNR7 = 39
+
+SNR8 = 30
+
+*********************
+
+GPS Signal Test PASS! Use time = 97.210 sec.
+
+
+Total Time 00:02:17

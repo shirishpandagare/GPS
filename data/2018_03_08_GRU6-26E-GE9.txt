@@ -1,0 +1,67 @@
+2018-03-08 18:54:29	Input SN : GRU6-26E-GE9
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 3490.374 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 28.0 (s)
+
+
+
+SNR1 = 32
+
+SNR2 = 28
+
+SNR3 = 30
+
+SNR4 = 27
+
+SNR5 = 28
+
+SNR6 = 39
+
+SNR7 = 30
+
+SNR8 = 39
+
+*********************
+
+GPS Signal Test PASS! Use time = 28.970 sec.
+
+
+Total Time 00:01:05

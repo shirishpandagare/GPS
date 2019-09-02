@@ -1,0 +1,61 @@
+2018-04-04 05:34:35	Input SN : GF2G-42Z-5C5
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 706.908 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.580 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 24.0 (s)
+
+
+
+SNR1 = 46
+
+SNR2 = 45
+
+SNR3 = 46
+
+SNR4 = 46
+
+*********************
+
+GPS Signal Test PASS! Use time = 27.560 sec.
+
+
+Total Time 00:00:51

@@ -1,0 +1,61 @@
+2018-04-04 11:11:04	Input SN : GAMV-3TU-BA4
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 49.371 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.580 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 30.0 (s)
+
+
+
+SNR1 = 35
+
+SNR2 = 35
+
+SNR3 = 35
+
+SNR4 = 35
+
+*********************
+
+GPS Signal Test PASS! Use time = 33.390 sec.
+
+
+Total Time 00:01:14

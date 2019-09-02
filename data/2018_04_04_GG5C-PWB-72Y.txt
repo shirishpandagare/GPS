@@ -1,0 +1,59 @@
+2018-04-04 11:46:58	Input SN : GG5C-PWB-72Y
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 910.996 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 40.0 (s)
+
+
+
+SNR1 = 36
+
+SNR2 = 35
+
+SNR3 = 36
+
+SNR4 = 35
+
+*********************
+
+GPS Signal Test PASS! Use time = 43.540 sec.
+
+
+Total Time 00:01:21

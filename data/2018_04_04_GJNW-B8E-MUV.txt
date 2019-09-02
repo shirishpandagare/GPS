@@ -1,0 +1,67 @@
+2018-04-04 01:30:27	Input SN : GJNW-B8E-MUV
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 6211.684 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.600 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 28.0 (s)
+
+
+
+SNR1 = 42
+
+SNR2 = 43
+
+SNR3 = 43
+
+SNR4 = 42
+
+SNR5 = 42
+
+SNR6 = 43
+
+SNR7 = 43
+
+SNR8 = 42
+
+*********************
+
+GPS Signal Test PASS! Use time = 31.270 sec.
+
+
+Total Time 00:00:49

@@ -1,0 +1,69 @@
+2018-03-08 19:45:46	Input SN : GKF8-M9M-RPB
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 6316.489 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.580 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 120.0 (s)
+
+
+
+SNR1 = 31
+
+SNR2 = 33
+
+SNR3 = 33
+
+SNR4 = 33
+
+SNR5 = 38
+
+SNR6 = 37
+
+SNR7 = 30
+
+SNR8 = 38
+
+*********************
+
+GPS Signal Test PASS! Use time = 120.503 sec.
+
+
+Total Time 00:02:46

@@ -1,0 +1,67 @@
+2018-04-14 23:08:56	Input SN : G9N5-MBE-P5Z
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 470.864 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 36.0 (s)
+
+
+
+SNR1 = 44
+
+SNR2 = 43
+
+SNR3 = 44
+
+SNR4 = 43
+
+SNR5 = 28
+
+SNR6 = 43
+
+SNR7 = 43
+
+SNR8 = 43
+
+*********************
+
+GPS Signal Test PASS! Use time = 116.620 sec.
+
+
+Total Time 00:02:34

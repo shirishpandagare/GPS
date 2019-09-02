@@ -1,0 +1,67 @@
+2018-04-20 21:26:55	Input SN : GRCB-U5A-XKY
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 1024.338 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.600 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 35.0 (s)
+
+
+
+SNR1 = 41
+
+SNR2 = 40
+
+SNR3 = 41
+
+SNR4 = 41
+
+SNR5 = 30
+
+SNR6 = 39
+
+SNR7 = 39
+
+SNR8 = 27
+
+*********************
+
+GPS Signal Test PASS! Use time = 47.440 sec.
+
+
+Total Time 00:01:22

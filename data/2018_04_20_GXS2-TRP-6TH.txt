@@ -1,0 +1,67 @@
+2018-04-20 21:24:45	Input SN : GXS2-TRP-6TH
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 2799.872 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 36.0 (s)
+
+
+
+SNR1 = 35
+
+SNR2 = 34
+
+SNR3 = 35
+
+SNR4 = 35
+
+SNR5 = 35
+
+SNR6 = 35
+
+SNR7 = 35
+
+SNR8 = 34
+
+*********************
+
+GPS Signal Test PASS! Use time = 39.311 sec.
+
+
+Total Time 00:01:16

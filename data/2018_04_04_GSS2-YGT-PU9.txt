@@ -1,0 +1,59 @@
+2018-04-04 11:27:07	Input SN : GSS2-YGT-PU9
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 52.524 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 0.0 (s)
+
+
+
+SNR1 = 30
+
+SNR2 = 30
+
+SNR3 = 30
+
+SNR4 = 30
+
+*********************
+
+GPS Signal Test PASS! Use time = 0.160 sec.
+
+
+Total Time 00:00:18

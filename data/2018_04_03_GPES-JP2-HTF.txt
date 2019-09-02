@@ -1,0 +1,67 @@
+2018-04-03 23:58:35	Input SN : GPES-JP2-HTF
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 1097.075 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.640 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 35.0 (s)
+
+
+
+SNR1 = 43
+
+SNR2 = 43
+
+SNR3 = 43
+
+SNR4 = 43
+
+SNR5 = 45
+
+SNR6 = 45
+
+SNR7 = 27
+
+SNR8 = 45
+
+*********************
+
+GPS Signal Test PASS! Use time = 46.610 sec.
+
+
+Total Time 00:01:26

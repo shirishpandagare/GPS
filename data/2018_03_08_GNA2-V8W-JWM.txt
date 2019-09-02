@@ -1,0 +1,67 @@
+2018-03-08 19:29:52	Input SN : GNA2-V8W-JWM
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 5524.005 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 115.0 (s)
+
+
+
+SNR1 = 31
+
+SNR2 = 32
+
+SNR3 = 26
+
+SNR4 = 33
+
+SNR5 = 36
+
+SNR6 = 30
+
+SNR7 = 35
+
+SNR8 = 35
+
+*********************
+
+GPS Signal Test PASS! Use time = 120.470 sec.
+
+
+Total Time 00:02:36

@@ -1,0 +1,69 @@
+2018-03-08 19:03:21	Input SN : GU79-JGD-UJZ
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 3991.106 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.580 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 33.0 (s)
+
+
+
+SNR1 = 28
+
+SNR2 = 28
+
+SNR3 = 26
+
+SNR4 = 30
+
+SNR5 = 37
+
+SNR6 = 37
+
+SNR7 = 37
+
+SNR8 = 31
+
+*********************
+
+GPS Signal Test PASS! Use time = 57.110 sec.
+
+
+Total Time 00:01:37

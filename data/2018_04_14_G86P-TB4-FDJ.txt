@@ -1,0 +1,67 @@
+2018-04-14 23:56:42	Input SN : G86P-TB4-FDJ
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 3417.541 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 35.0 (s)
+
+
+
+SNR1 = 43
+
+SNR2 = 43
+
+SNR3 = 43
+
+SNR4 = 28
+
+SNR5 = 29
+
+SNR6 = 29
+
+SNR7 = 44
+
+SNR8 = 28
+
+*********************
+
+GPS Signal Test PASS! Use time = 37.430 sec.
+
+
+Total Time 00:01:14

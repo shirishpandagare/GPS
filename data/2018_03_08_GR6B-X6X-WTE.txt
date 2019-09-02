@@ -1,0 +1,67 @@
+2018-03-08 19:11:19	Input SN : GR6B-X6X-WTE
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 4410.888 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 92.0 (s)
+
+
+
+SNR1 = 28
+
+SNR2 = 28
+
+SNR3 = 26
+
+SNR4 = 30
+
+SNR5 = 39
+
+SNR6 = 39
+
+SNR7 = 29
+
+SNR8 = 39
+
+*********************
+
+GPS Signal Test PASS! Use time = 120.000 sec.
+
+
+Total Time 00:02:36

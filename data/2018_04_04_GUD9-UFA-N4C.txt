@@ -1,0 +1,61 @@
+2018-04-04 12:31:36	Input SN : GUD9-UFA-N4C
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 45.404 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.550 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 28.0 (s)
+
+
+
+SNR1 = 38
+
+SNR2 = 38
+
+SNR3 = 38
+
+SNR4 = 38
+
+*********************
+
+GPS Signal Test PASS! Use time = 39.824 sec.
+
+
+Total Time 00:01:29

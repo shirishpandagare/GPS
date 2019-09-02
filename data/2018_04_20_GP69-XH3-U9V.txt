@@ -1,0 +1,67 @@
+2018-04-20 23:45:49	Input SN : GP69-XH3-U9V
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 663.668 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.600 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 42.0 (s)
+
+
+
+SNR1 = 39
+
+SNR2 = 39
+
+SNR3 = 40
+
+SNR4 = 39
+
+SNR5 = 40
+
+SNR6 = 40
+
+SNR7 = 32
+
+SNR8 = 40
+
+*********************
+
+GPS Signal Test PASS! Use time = 87.651 sec.
+
+
+Total Time 00:02:04

@@ -1,0 +1,69 @@
+2018-04-04 05:28:11	Input SN : GZND-GDM-6J6
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 1930.122 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.570 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 38.0 (s)
+
+
+
+SNR1 = 41
+
+SNR2 = 41
+
+SNR3 = 41
+
+SNR4 = 28
+
+SNR5 = 41
+
+SNR6 = 41
+
+SNR7 = 28
+
+SNR8 = 26
+
+*********************
+
+GPS Signal Test PASS! Use time = 91.890 sec.
+
+
+Total Time 00:01:52

@@ -1,0 +1,67 @@
+2018-03-28 15:47:41	Input SN : GT87-49D-T5T
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 4734.154 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 29.0 (s)
+
+
+
+SNR1 = 43
+
+SNR2 = 43
+
+SNR3 = 43
+
+SNR4 = 43
+
+SNR5 = 39
+
+SNR6 = 39
+
+SNR7 = 35
+
+SNR8 = 39
+
+*********************
+
+GPS Signal Test PASS! Use time = 32.990 sec.
+
+
+Total Time 00:01:13

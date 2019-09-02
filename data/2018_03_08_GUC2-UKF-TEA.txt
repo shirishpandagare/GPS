@@ -1,0 +1,69 @@
+2018-03-08 18:50:34	Input SN : GUC2-UKF-TEA
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 3080.668 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.570 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 47.0 (s)
+
+
+
+SNR1 = 34
+
+SNR2 = 34
+
+SNR3 = 34
+
+SNR4 = 34
+
+SNR5 = 31
+
+SNR6 = 38
+
+SNR7 = 39
+
+SNR8 = 30
+
+*********************
+
+GPS Signal Test PASS! Use time = 50.474 sec.
+
+
+Total Time 00:01:30

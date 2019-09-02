@@ -1,0 +1,67 @@
+2018-04-14 16:42:48	Input SN : GM62-9C8-4G9
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 202.616 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.580 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 31.0 (s)
+
+
+
+SNR1 = 48
+
+SNR2 = 48
+
+SNR3 = 48
+
+SNR4 = 48
+
+SNR5 = 48
+
+SNR6 = 49
+
+SNR7 = 48
+
+*********************
+
+GPS Signal Test PASS! Use time = 34.270 sec.
+
+
+Total Time 00:01:14

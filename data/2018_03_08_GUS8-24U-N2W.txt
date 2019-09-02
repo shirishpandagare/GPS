@@ -1,0 +1,67 @@
+2018-03-08 18:34:40	Input SN : GUS8-24U-N2W
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 2209.901 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 116.0 (s)
+
+
+
+SNR1 = 31
+
+SNR2 = 30
+
+SNR3 = 38
+
+SNR4 = 38
+
+SNR5 = 39
+
+SNR6 = 38
+
+SNR7 = 39
+
+SNR8 = 28
+
+*********************
+
+GPS Signal Test PASS! Use time = 120.680 sec.
+
+
+Total Time 00:02:38

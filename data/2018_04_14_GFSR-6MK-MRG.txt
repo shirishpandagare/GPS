@@ -1,0 +1,67 @@
+2018-04-14 16:17:48	Input SN : GFSR-6MK-MRG
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 876.939 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 3.570 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 37.0 (s)
+
+
+
+SNR1 = 48
+
+SNR2 = 48
+
+SNR3 = 48
+
+SNR4 = 49
+
+SNR5 = 48
+
+SNR6 = 48
+
+SNR7 = 49
+
+*********************
+
+GPS Signal Test PASS! Use time = 38.740 sec.
+
+
+Total Time 00:01:20

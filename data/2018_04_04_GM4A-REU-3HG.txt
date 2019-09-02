@@ -1,0 +1,67 @@
+2018-04-04 03:27:38	Input SN : GM4A-REU-3HG
+
+
+
+
+===============
+
+GPS Module Detect....
+
+===============
+
+Detect OK! Use time = 2968.166 sec.
+
+
+
+
+
+===============
+
+Enable GPS Module....
+
+===============
+
+at@gpsengine=1
+
+OK
+
+*********************
+
+Enable GPS Module OK! Use time = 0.610 sec.
+
+
+
+
+
+===============
+
+GPS Signal Test....
+
+===============
+
+TTFF = 34.0 (s)
+
+
+
+SNR1 = 42
+
+SNR2 = 41
+
+SNR3 = 42
+
+SNR4 = 42
+
+SNR5 = 46
+
+SNR6 = 47
+
+SNR7 = 46
+
+SNR8 = 44
+
+*********************
+
+GPS Signal Test PASS! Use time = 37.330 sec.
+
+
+Total Time 00:00:55
