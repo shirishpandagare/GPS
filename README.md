@@ -31,5 +31,6 @@ The following are features that need to be extracted from the reports.
 11. SNR7: - Signal to Noise Ratio 7.
 12. SNR8: - Signal to Noise Ratio 8.
 
+![Figure 2](images/Figure2.png)
 ### Approach
 1)
